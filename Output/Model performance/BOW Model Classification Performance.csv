@@ -1,0 +1,5 @@
+,Name,True-Positives,False-Negatives,False-Positives,True-Negatives,Accuracy,Precision,Recall,F1,G_mean,MAUC
+3,Random Forest,0.992,1.0,0.008,0.0,0.904,0.453,0.232,0.287,0.7114593810370702,0.813
+2,SMOTEBoost (Gradient Boosting),0.994,0.719,0.006,0.281,0.729,0.224,0.492,0.282,0.8463869574938179,0.878
+0,RUSBoost,0.99,0.4,0.01,0.6,0.076,0.1,0.146,0.06,0.2732410795797511,0.624
+1,SMOTEBoost (AdaBoost),,0.169,,0.831,0.02,0.1,0.117,0.053,0.1403117599673827,0.598
