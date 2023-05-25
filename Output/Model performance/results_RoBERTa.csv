@@ -1,0 +1,7 @@
+vectorizer,FS,accuracy,precision,recall,f1,RoBERTa
+,,,,,,Transformer
+,,,,,,RoBERTa
+,,,,,,0.9333950046253469
+,,,,,,0.5687940782282723
+,,,,,,0.5853317929461406
+,,,,,,0.5758869504544637
