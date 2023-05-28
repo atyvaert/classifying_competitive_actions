@@ -12,12 +12,12 @@ Observation_nr,Probability,Prediction
 10,0.83,None
 11,0.64,Financing
 12,0.8947167375849268,None
-13,0.3316537492402909,Financing
-14,0.6630268430735248,Divestiture
+13,0.33165374924029095,Financing
+14,0.6630268430735247,Divestiture
 15,1.0,None
 16,0.7540166930097367,None
 17,1.0,None
-18,0.6118015464299991,None
+18,0.6118015464299993,None
 19,0.998,None
 20,0.8659904712698682,None
 21,1.0,None
@@ -31,14 +31,14 @@ Observation_nr,Probability,Prediction
 29,0.5891923740510697,None
 30,1.0,None
 31,0.8884705148467296,None
-32,0.4037212496744656,Financing
+32,0.40372124967446554,Financing
 33,1.0,None
 34,1.0,None
 35,0.924,None
 36,1.0,"Merger & 
 acquisitions"
 37,0.984,None
-38,0.708580932441251,None
+38,0.7085809324412511,None
 39,0.914,None
 40,0.6300072297388623,None
 41,0.942,None
@@ -52,7 +52,7 @@ acquisitions"
 49,1.0,None
 50,0.902,None
 51,1.0,None
-52,0.41982554629416324,None
+52,0.4198255462941633,None
 53,1.0,None
 54,1.0,None
 55,0.882,None
@@ -80,9 +80,9 @@ acquisitions"
 76,1.0,None
 77,0.618,None
 78,0.6597973591622054,Marketing
-79,0.839246146630148,"Merger & 
+79,0.8392461466301477,"Merger & 
 acquisitions"
-80,0.3963059478213933,None
+80,0.3963059478213932,None
 81,1.0,None
 82,1.0,None
 83,1.0,None
@@ -131,7 +131,7 @@ acquisitions"
 120,0.826,"Corporate 
 governance"
 121,0.8600675162594994,None
-122,0.4882212171546294,Human resources
+122,0.48822121715462946,Human resources
 123,0.9943455402683126,None
 124,0.982,None
 125,0.998,None
@@ -153,7 +153,7 @@ governance"
 141,1.0,None
 142,1.0,None
 143,0.99,None
-144,0.7233586322524423,None
+144,0.7233586322524425,None
 145,0.472,None
 146,1.0,None
 147,1.0,None
@@ -169,7 +169,7 @@ governance"
 157,0.996,None
 158,0.918,None
 159,1.0,None
-160,0.12190336390281879,Marketing
+160,0.12190336390281878,Marketing
 161,1.0,None
 162,0.998,None
 163,0.654880130980131,"Corporate 
@@ -187,12 +187,12 @@ governance"
 174,1.0,None
 175,1.0,None
 176,1.0,None
-177,0.344109273368913,"New product introduction/
+177,0.34410927336891306,"New product introduction/
 service offering"
 178,0.33368150657817114,"Product/
 service improvement"
 179,1.0,None
-180,0.5830807643924604,None
+180,0.5830807643924603,None
 181,0.97,None
 182,0.984,None
 183,1.0,None
@@ -248,8 +248,8 @@ acquisitions"
 232,1.0,None
 233,0.942,None
 234,1.0,None
-235,0.5641301206753596,Divestiture
-236,0.5954408988147745,Venturing
+235,0.5641301206753597,Divestiture
+236,0.5954408988147744,Venturing
 237,0.72888746325291,None
 238,0.5730403381772242,Production-related actions
 239,1.0,None
@@ -266,7 +266,7 @@ acquisitions"
 250,0.6320251140146402,None
 251,1.0,None
 252,0.6869817775979624,Divestiture
-253,0.4898291894045109,Marketing
+253,0.489829189404511,Marketing
 254,0.914,None
 255,0.922,None
 256,1.0,None
@@ -277,7 +277,7 @@ acquisitions"
 261,0.82,None
 262,0.984,None
 263,1.0,None
-264,0.40744655314865486,"Product/
+264,0.40744655314865474,"Product/
 service improvement"
 265,0.714,"Merger & 
 acquisitions"
@@ -337,7 +337,7 @@ governance"
 316,1.0,None
 317,0.9600221692088966,"Corporate 
 governance"
-318,0.8884776405564088,Market entry
+318,0.8884776405564089,Market entry
 319,0.25230740076745006,Strategic alliance
 320,0.6500754545347119,None
 321,1.0,None
@@ -349,7 +349,7 @@ governance"
 327,1.0,None
 328,0.958,None
 329,0.744,Production-related actions
-330,0.39476912594203567,"New product introduction/
+330,0.3947691259420357,"New product introduction/
 service offering"
 331,1.0,None
 332,1.0,None
@@ -366,10 +366,10 @@ service offering"
 343,1.0,None
 344,0.7731883801886293,Market entry
 345,0.998,None
-346,0.4793915628744238,None
+346,0.47939156287442375,None
 347,0.864,Market entry
 348,1.0,None
-349,0.6268619623838254,Venturing
+349,0.6268619623838252,Venturing
 350,0.986,None
 351,0.974,None
 352,0.9941666666666666,None
@@ -413,8 +413,8 @@ governance"
 388,0.4563457162527985,Expansion in existing market (product/service/geographical)
 389,1.0,None
 390,1.0,None
-391,0.5713775657475698,None
-392,0.46967949007772414,"New product introduction/
+391,0.5713775657475699,None
+392,0.4696794900777242,"New product introduction/
 service offering"
 393,0.6108095924102039,None
 394,1.0,None
@@ -434,7 +434,7 @@ governance"
 407,1.0,None
 408,1.0,Production-related actions
 409,0.5415161937667964,None
-410,0.5332289481348996,"New product introduction/
+410,0.5332289481348995,"New product introduction/
 service offering"
 411,0.398,None
 412,1.0,None
@@ -448,11 +448,11 @@ service offering"
 420,1.0,None
 421,0.806,None
 422,1.0,None
-423,0.2601680891038736,Venturing
+423,0.2601680891038737,Venturing
 424,0.788,None
 425,1.0,None
 426,1.0,None
-427,0.2966454863984416,"Product/
+427,0.29664548639844157,"Product/
 service improvement"
 428,1.0,None
 429,0.988,None
@@ -509,7 +509,7 @@ acquisitions"
 477,0.684,Marketing
 478,1.0,None
 479,0.996,None
-480,0.6387571778304063,None
+480,0.6387571778304065,None
 481,1.0,None
 482,0.802,None
 483,0.958,None
@@ -558,7 +558,7 @@ service offering"
 524,1.0,None
 525,1.0,None
 526,0.594,Production-related actions
-527,0.8137580268897702,"Merger & 
+527,0.8137580268897703,"Merger & 
 acquisitions"
 528,0.988,None
 529,0.99,None
@@ -572,8 +572,8 @@ acquisitions"
 537,0.982,None
 538,0.9740119444790696,None
 539,1.0,None
-540,0.49236362864790445,None
-541,0.7588145615363024,None
+540,0.49236362864790456,None
+541,0.7588145615363027,None
 542,0.482,None
 543,0.342,None
 544,1.0,None
@@ -588,18 +588,18 @@ governance"
 551,0.994,None
 552,1.0,None
 553,0.995169545485335,None
-554,0.7740697201002171,None
+554,0.7740697201002174,None
 555,1.0,None
 556,0.91,None
 557,0.27400638960574086,Venturing
 558,0.33167581965942045,Expansion in existing market (product/service/geographical)
-559,0.6227812658647435,"Merger & 
+559,0.6227812658647436,"Merger & 
 acquisitions"
 560,0.94,None
 561,1.0,None
 562,0.8389998479172389,"Merger & 
 acquisitions"
-563,0.4006181883507602,"Corporate 
+563,0.40061818835076013,"Corporate 
 governance"
 564,1.0,None
 565,0.998,None
@@ -615,7 +615,7 @@ service offering"
 574,1.0,None
 575,1.0,None
 576,1.0,None
-577,0.738171980363214,R&D-related actions
+577,0.7381719803632139,R&D-related actions
 578,0.49800261279629077,None
 579,0.35232150525636763,Market entry
 580,1.0,None
@@ -876,7 +876,7 @@ service improvement"
 813,1.0,None
 814,1.0,None
 815,1.0,None
-816,0.7530989820484786,Human resources
+816,0.7530989820484785,Human resources
 817,0.852,Venturing
 818,0.484,Expansion in existing market (product/service/geographical)
 819,0.9982135922330097,None
@@ -944,7 +944,7 @@ service offering"
 875,0.99,None
 876,1.0,None
 877,0.97,None
-878,0.5618099917148065,Market entry
+878,0.5618099917148066,Market entry
 879,0.46732117098473147,"Corporate 
 governance"
 880,0.35247518854390936,None
@@ -964,7 +964,7 @@ governance"
 892,1.0,None
 893,0.994,None
 894,1.0,None
-895,0.39980827454649664,"Merger & 
+895,0.3998082745464967,"Merger & 
 acquisitions"
 896,1.0,None
 897,1.0,None
@@ -988,10 +988,10 @@ acquisitions"
 915,0.99,None
 916,1.0,None
 917,0.3787426384687509,None
-918,0.3585319529177744,"Merger & 
+918,0.35853195291777434,"Merger & 
 acquisitions"
 919,1.0,None
-920,0.3844686781923555,"Merger & 
+920,0.3844686781923554,"Merger & 
 acquisitions"
 921,0.9642469565217391,None
 922,1.0,None
@@ -1004,7 +1004,7 @@ acquisitions"
 929,0.99,None
 930,0.93,None
 931,0.9822579887218045,None
-932,0.4569929052194821,None
+932,0.4569929052194822,None
 933,1.0,None
 934,0.12515817906989077,Marketing
 935,0.7,None
@@ -1023,7 +1023,7 @@ governance"
 947,1.0,None
 948,0.994,None
 949,0.9440398732775939,None
-950,0.29605194463706613,Human resources
+950,0.2960519446370661,Human resources
 951,1.0,None
 952,0.998,None
 953,0.490180598508445,None
@@ -1041,7 +1041,7 @@ governance"
 965,0.998,None
 966,0.8101242723924922,None
 967,0.43,Strategic alliance
-968,0.5537181308025982,"Corporate 
+968,0.5537181308025984,"Corporate 
 governance"
 969,1.0,None
 970,1.0,None
@@ -1086,7 +1086,7 @@ governance"
 1006,0.842,None
 1007,1.0,None
 1008,1.0,Financing
-1009,0.3318236756508879,Financing
+1009,0.33182367565088783,Financing
 1010,0.612,Marketing
 1011,1.0,None
 1012,0.9447665351173248,None
@@ -1100,13 +1100,13 @@ governance"
 1020,1.0,None
 1021,0.936,"Product/
 service improvement"
-1022,0.3633457091028205,"New product introduction/
+1022,0.36334570910282044,"New product introduction/
 service offering"
 1023,1.0,None
 1024,1.0,None
 1025,1.0,None
 1026,0.23668985157143932,Marketing
-1027,0.6000790775443229,None
+1027,0.6000790775443228,None
 1028,1.0,None
 1029,1.0,None
 1030,1.0,None
@@ -1170,7 +1170,7 @@ governance"
 1083,0.966,None
 1084,1.0,None
 1085,1.0,None
-1086,0.645904403302578,R&D-related actions
+1086,0.6459044033025779,R&D-related actions
 1087,1.0,None
 1088,0.3639696140853734,Strategic alliance
 1089,1.0,None
@@ -1185,7 +1185,7 @@ governance"
 1098,0.972,None
 1099,1.0,None
 1100,1.0,None
-1101,0.4975446192246868,"Corporate 
+1101,0.49754461922468673,"Corporate 
 governance"
 1102,0.998,None
 1103,0.532,"Product/
@@ -1196,7 +1196,7 @@ service improvement"
 1107,1.0,None
 1108,1.0,"Merger & 
 acquisitions"
-1109,0.358806633916806,None
+1109,0.35880663391680606,None
 1110,0.958455965812306,None
 1111,1.0,None
 1112,0.9901204013377926,Strategic alliance
@@ -1238,7 +1238,7 @@ governance"
 1146,0.9985714285714286,None
 1147,1.0,None
 1148,0.996,None
-1149,0.5759942779844078,"New product introduction/
+1149,0.575994277984408,"New product introduction/
 service offering"
 1150,0.8246461548849573,"Corporate 
 governance"
@@ -1294,17 +1294,17 @@ acquisitions"
 1195,0.994,None
 1196,1.0,None
 1197,0.996,None
-1198,0.316628903223312,"New product introduction/
+1198,0.31662890322331205,"New product introduction/
 service offering"
 1199,0.9708356544899889,None
 1200,1.0,None
 1201,1.0,None
 1202,0.796,None
-1203,0.44713320359559394,None
+1203,0.447133203595594,None
 1204,0.8196227013801007,None
 1205,0.9904082534288142,None
 1206,1.0,None
-1207,0.3316157064164477,R&D-related actions
+1207,0.33161570641644766,R&D-related actions
 1208,0.994,None
 1209,0.308,Human resources
 1210,0.948,None
@@ -1343,7 +1343,7 @@ governance"
 1242,0.5168699771063957,Production-related actions
 1243,0.998,None
 1244,0.5882765948565866,Expansion in existing market (product/service/geographical)
-1245,0.6252632346073528,Market entry
+1245,0.6252632346073529,Market entry
 1246,1.0,None
 1247,0.630133861734741,None
 1248,1.0,None
@@ -1354,7 +1354,7 @@ governance"
 1253,1.0,None
 1254,0.9,None
 1255,1.0,None
-1256,0.2036022439017603,"Product/
+1256,0.20360224390176027,"Product/
 service improvement"
 1257,1.0,None
 1258,0.494,Financing
@@ -1377,11 +1377,11 @@ service improvement"
 1275,1.0,None
 1276,1.0,None
 1277,0.8833540234589022,None
-1278,0.5836844952131199,Expansion in existing market (product/service/geographical)
+1278,0.5836844952131198,Expansion in existing market (product/service/geographical)
 1279,1.0,None
 1280,0.948,None
 1281,1.0,None
-1282,0.41947607357124933,"Product/
+1282,0.4194760735712494,"Product/
 service improvement"
 1283,0.91,None
 1284,0.5770527500277499,None
@@ -1402,7 +1402,7 @@ service offering"
 1298,1.0,None
 1299,0.844,None
 1300,0.98,None
-1301,0.7322649268370469,"Merger & 
+1301,0.732264926837047,"Merger & 
 acquisitions"
 1302,0.96,None
 1303,0.1957304481389048,Venturing
@@ -1475,7 +1475,7 @@ governance"
 service offering"
 1365,0.708,None
 1366,0.476,None
-1367,0.12044168581236644,None
+1367,0.12044168581236646,None
 1368,0.996,None
 1369,1.0,None
 1370,1.0,None
@@ -1501,7 +1501,7 @@ governance"
 1389,0.998,None
 1390,0.8300601886032682,None
 1391,0.9700166666666666,None
-1392,0.5357899892769977,Market entry
+1392,0.5357899892769978,Market entry
 1393,0.99,None
 1394,0.3326455912311781,Human resources
 1395,0.9681753071530372,None
@@ -1511,7 +1511,7 @@ governance"
 governance"
 1399,0.986,None
 1400,0.6808655417083117,Production-related actions
-1401,0.5622253218705376,None
+1401,0.5622253218705375,None
 1402,0.37368128251264987,Strategic alliance
 1403,1.0,None
 1404,0.3284641590802256,Expansion in existing market (product/service/geographical)
@@ -1524,7 +1524,7 @@ governance"
 1411,0.996,None
 1412,0.7558333333333334,None
 1413,0.69,None
-1414,0.29381876692554626,Divestiture
+1414,0.2938187669255463,Divestiture
 1415,0.922,None
 1416,1.0,None
 1417,1.0,None
@@ -1539,9 +1539,9 @@ service offering"
 1424,1.0,None
 1425,0.642,None
 1426,1.0,None
-1427,0.2982845288668761,"New product introduction/
+1427,0.29828452886687623,"New product introduction/
 service offering"
-1428,0.8103236623342491,None
+1428,0.810323662334249,None
 1429,0.392,None
 1430,0.992,None
 1431,1.0,None
@@ -1588,7 +1588,7 @@ governance"
 1470,0.992,None
 1471,1.0,None
 1472,1.0,None
-1473,0.7841092343862948,None
+1473,0.7841092343862947,None
 1474,0.914,None
 1475,1.0,None
 1476,0.7255851663226086,None
@@ -1625,7 +1625,7 @@ service offering"
 acquisitions"
 1506,0.992,Strategic alliance
 1507,0.998,None
-1508,0.3622691441736197,Venturing
+1508,0.36226914417361966,Venturing
 1509,0.99,None
 1510,0.870031746031746,None
 1511,0.554,None
@@ -1648,13 +1648,13 @@ service improvement"
 1527,0.968,None
 1528,1.0,None
 1529,1.0,None
-1530,0.6801464176339042,"New product introduction/
+1530,0.680146417633904,"New product introduction/
 service offering"
 1531,1.0,None
 1532,0.8940048117797194,None
 1533,0.3674056625916864,Marketing
 1534,1.0,None
-1535,0.6507061264293,None
+1535,0.6507061264292999,None
 1536,0.572,R&D-related actions
 1537,0.97,None
 1538,1.0,None
@@ -1696,7 +1696,7 @@ acquisitions"
 governance"
 1569,1.0,None
 1570,0.334,Marketing
-1571,0.45348535039776344,"New product introduction/
+1571,0.4534853503977635,"New product introduction/
 service offering"
 1572,1.0,None
 1573,1.0,None
@@ -1707,12 +1707,12 @@ service offering"
 1578,0.518,None
 1579,1.0,None
 1580,0.654,Venturing
-1581,0.5136605773398549,"New product introduction/
+1581,0.5136605773398552,"New product introduction/
 service offering"
 1582,1.0,None
 1583,0.2576156569772952,"New product introduction/
 service offering"
-1584,0.7824267184440249,Expansion in existing market (product/service/geographical)
+1584,0.7824267184440248,Expansion in existing market (product/service/geographical)
 1585,1.0,None
 1586,1.0,None
 1587,0.496,"Merger & 
@@ -1800,7 +1800,7 @@ governance"
 1661,1.0,None
 1662,0.992,None
 1663,1.0,None
-1664,0.2406176564437733,Divestiture
+1664,0.24061765644377334,Divestiture
 1665,1.0,None
 1666,1.0,None
 1667,1.0,None
@@ -1822,7 +1822,7 @@ service offering"
 1681,1.0,None
 1682,0.9754516801996423,None
 1683,1.0,None
-1684,0.8609661684868993,None
+1684,0.8609661684868994,None
 1685,1.0,None
 1686,1.0,None
 1687,0.982,None
@@ -1843,7 +1843,7 @@ acquisitions"
 1700,1.0,None
 1701,1.0,None
 1702,0.72,None
-1703,0.6456697610600357,Production-related actions
+1703,0.6456697610600356,Production-related actions
 1704,0.982,None
 1705,1.0,None
 1706,0.352,None
@@ -1865,7 +1865,7 @@ acquisitions"
 1721,0.9726517282512187,Divestiture
 1722,0.5527543171441708,Human resources
 1723,1.0,None
-1724,0.6880839715486189,None
+1724,0.688083971548619,None
 1725,0.866,None
 1726,0.998,None
 1727,0.958,None
@@ -1916,7 +1916,7 @@ acquisitions"
 1768,1.0,None
 1769,0.73,"Merger & 
 acquisitions"
-1770,0.43733705151058083,None
+1770,0.4373370515105809,None
 1771,0.706,"Corporate 
 governance"
 1772,1.0,None
@@ -1967,7 +1967,7 @@ service offering"
 governance"
 1816,1.0,None
 1817,0.984,None
-1818,0.34800975574722265,R&D-related actions
+1818,0.3480097557472227,R&D-related actions
 1819,1.0,None
 1820,0.988,None
 1821,0.507684561432365,None
@@ -2051,7 +2051,7 @@ governance"
 1893,0.872,"Corporate 
 governance"
 1894,1.0,None
-1895,0.7730106016476059,None
+1895,0.7730106016476058,None
 1896,1.0,None
 1897,1.0,None
 1898,1.0,None
@@ -2070,9 +2070,9 @@ governance"
 1911,0.998,None
 1912,0.9880057740181125,None
 1913,1.0,None
-1914,0.7343177856010673,None
+1914,0.7343177856010672,None
 1915,1.0,None
-1916,0.41555260032444913,"Merger & 
+1916,0.4155526003244492,"Merger & 
 acquisitions"
 1917,1.0,None
 1918,1.0,None
@@ -2102,7 +2102,7 @@ governance"
 1940,0.548,"Corporate 
 governance"
 1941,0.996,None
-1942,0.3536705974912176,None
+1942,0.35367059749121765,None
 1943,0.6916147250822335,Expansion in existing market (product/service/geographical)
 1944,0.998,None
 1945,1.0,None
@@ -2145,7 +2145,7 @@ governance"
 1978,1.0,None
 1979,0.618,None
 1980,0.6072399803036412,Production-related actions
-1981,0.5349235136938753,None
+1981,0.5349235136938751,None
 1982,0.766,None
 1983,1.0,None
 1984,0.914,None
@@ -2172,7 +2172,7 @@ governance"
 2003,0.554,"Product/
 service improvement"
 2004,0.816,None
-2005,0.6816537758670964,Financing
+2005,0.6816537758670965,Financing
 2006,1.0,None
 2007,1.0,None
 2008,1.0,None
@@ -2185,13 +2185,13 @@ service improvement"
 2015,0.9271512372361976,None
 2016,1.0,None
 2017,1.0,None
-2018,0.3534374146082307,Market entry
+2018,0.35343741460823064,Market entry
 2019,0.996,None
 2020,0.8761790081215072,None
 2021,1.0,None
 2022,0.9521709401709402,None
 2023,1.0,None
-2024,0.7440760441022474,Divestiture
+2024,0.7440760441022475,Divestiture
 2025,0.29668629177136835,"Product/
 service improvement"
 2026,0.998,None
@@ -2210,7 +2210,7 @@ acquisitions"
 2038,1.0,None
 2039,1.0,None
 2040,1.0,None
-2041,0.5349383934764684,"New product introduction/
+2041,0.5349383934764682,"New product introduction/
 service offering"
 2042,1.0,None
 2043,0.932,None
@@ -2275,7 +2275,7 @@ acquisitions"
 2100,0.4576572597299767,None
 2101,0.994,None
 2102,0.9373047785547787,None
-2103,0.602456668130881,None
+2103,0.6024566681308811,None
 2104,0.93,None
 2105,0.8658271744413036,"Merger & 
 acquisitions"
@@ -2286,8 +2286,8 @@ acquisitions"
 2110,0.6174184113341032,Strategic alliance
 2111,0.7728486692052255,"New product introduction/
 service offering"
-2112,0.3883047082893561,None
-2113,0.760776813065917,None
+2112,0.38830470828935615,None
+2113,0.7607768130659169,None
 2114,1.0,None
 2115,0.998,None
 2116,1.0,None
@@ -2355,12 +2355,12 @@ governance"
 2173,0.594,Expansion in existing market (product/service/geographical)
 2174,0.904,"Corporate 
 governance"
-2175,0.5571687764390889,Financing
+2175,0.5571687764390888,Financing
 2176,1.0,None
-2177,0.6529683166831325,Divestiture
+2177,0.6529683166831324,Divestiture
 2178,0.5719303275324087,Financing
 2179,0.98,None
-2180,0.23339310415451406,"New product introduction/
+2180,0.23339310415451403,"New product introduction/
 service offering"
 2181,0.992,None
 2182,1.0,None
@@ -2448,14 +2448,14 @@ service improvement"
 2262,0.816,None
 2263,0.847334396277393,Divestiture
 2264,1.0,None
-2265,0.6720892763158035,None
+2265,0.6720892763158036,None
 2266,1.0,None
 2267,1.0,None
 2268,0.9740028162728787,None
 2269,1.0,None
 2270,1.0,None
 2271,1.0,None
-2272,0.3921832611525772,Market entry
+2272,0.3921832611525771,Market entry
 2273,0.764,"Corporate 
 governance"
 2274,1.0,None
@@ -2477,19 +2477,19 @@ governance"
 2290,0.9920769230769231,None
 2291,0.976,None
 2292,0.992,None
-2293,0.39872665541413765,Expansion in existing market (product/service/geographical)
+2293,0.3987266554141376,Expansion in existing market (product/service/geographical)
 2294,0.738,Venturing
 2295,1.0,None
 2296,0.9581414141414141,None
-2297,0.11914825651224903,Marketing
+2297,0.11914825651224902,Marketing
 2298,0.3487782291849546,None
-2299,0.6400160011964868,Divestiture
+2299,0.6400160011964869,Divestiture
 2300,0.9942567741935485,None
 2301,0.992,None
 2302,0.5555453630967623,None
 2303,1.0,None
 2304,1.0,None
-2305,0.6003985291791154,Production-related actions
+2305,0.6003985291791155,Production-related actions
 2306,0.942,None
 2307,1.0,None
 2308,1.0,None
@@ -2515,13 +2515,13 @@ governance"
 2328,0.43619691913405567,None
 2329,0.557664496488317,"Merger & 
 acquisitions"
-2330,0.820967360908464,Venturing
+2330,0.8209673609084641,Venturing
 2331,1.0,None
 2332,1.0,None
 2333,0.9164204347826087,None
 2334,0.744,"Corporate 
 governance"
-2335,0.76974515551899,Expansion in existing market (product/service/geographical)
+2335,0.7697451555189901,Expansion in existing market (product/service/geographical)
 2336,1.0,None
 2337,1.0,None
 2338,0.512,Marketing
@@ -2536,8 +2536,8 @@ acquisitions"
 2345,0.54,None
 2346,0.7240588243537541,None
 2347,1.0,None
-2348,0.6641641528270766,None
-2349,0.5691414280710089,"Merger & 
+2348,0.6641641528270769,None
+2349,0.5691414280710088,"Merger & 
 acquisitions"
 2350,0.8040684122238411,None
 2351,1.0,None
@@ -2575,7 +2575,7 @@ governance"
 2382,0.6093727160360072,"Merger & 
 acquisitions"
 2383,0.998,None
-2384,0.9515413639609132,Divestiture
+2384,0.951541363960913,Divestiture
 2385,0.992,None
 2386,1.0,None
 2387,0.8118561302061984,None
@@ -2602,13 +2602,13 @@ acquisitions"
 2408,0.3940792467809333,Marketing
 2409,0.994,None
 2410,1.0,None
-2411,0.6384341809876831,"New product introduction/
+2411,0.638434180987683,"New product introduction/
 service offering"
 2412,1.0,None
 2413,1.0,Divestiture
 2414,1.0,None
 2415,0.998,None
-2416,0.7417447844943891,None
+2416,0.741744784494389,None
 2417,0.91,None
 2418,0.82,None
 2419,1.0,None
@@ -2627,7 +2627,7 @@ acquisitions"
 2431,0.446,None
 2432,1.0,None
 2433,1.0,None
-2434,0.5335471144593134,Financing
+2434,0.5335471144593135,Financing
 2435,0.9825,None
 2436,1.0,None
 2437,0.76,None
@@ -2688,7 +2688,7 @@ service offering"
 2487,1.0,None
 2488,1.0,None
 2489,0.914,None
-2490,0.5227278410256029,Expansion in existing market (product/service/geographical)
+2490,0.522727841025603,Expansion in existing market (product/service/geographical)
 2491,1.0,None
 2492,1.0,None
 2493,0.698,"Product/
@@ -2712,7 +2712,7 @@ service improvement"
 2509,1.0,None
 2510,0.6008837454958179,None
 2511,1.0,None
-2512,0.38187319107955603,Expansion in existing market (product/service/geographical)
+2512,0.381873191079556,Expansion in existing market (product/service/geographical)
 2513,0.992,None
 2514,0.998,None
 2515,0.4376395602075941,Expansion in existing market (product/service/geographical)
@@ -2740,7 +2740,7 @@ service improvement"
 2537,1.0,None
 2538,0.9742438703384496,None
 2539,0.46,None
-2540,0.6855341869567124,Financing
+2540,0.6855341869567123,Financing
 2541,0.836,None
 2542,1.0,None
 2543,0.8261536649362298,Financing
@@ -2759,7 +2759,7 @@ governance"
 2555,1.0,None
 2556,0.618,Financing
 2557,1.0,None
-2558,0.5313416285146197,Divestiture
+2558,0.5313416285146199,Divestiture
 2559,1.0,None
 2560,1.0,None
 2561,1.0,None
@@ -2814,13 +2814,13 @@ governance"
 2608,0.998,None
 2609,1.0,None
 2610,0.998,None
-2611,0.3754577734581501,Marketing
+2611,0.3754577734581502,Marketing
 2612,0.996,None
 2613,1.0,None
-2614,0.4845610912643901,"Merger & 
+2614,0.4845610912643902,"Merger & 
 acquisitions"
 2615,1.0,None
-2616,0.3436242778260176,"New product introduction/
+2616,0.3436242778260177,"New product introduction/
 service offering"
 2617,0.632,None
 2618,1.0,None
@@ -2835,7 +2835,7 @@ service offering"
 2627,0.996,None
 2628,0.9440057349608143,None
 2629,0.996,None
-2630,0.33921779018067777,Divestiture
+2630,0.3392177901806777,Divestiture
 2631,0.936,Marketing
 2632,1.0,None
 2633,0.952,Strategic alliance
@@ -2845,7 +2845,7 @@ service improvement"
 2636,0.978,None
 2637,1.0,None
 2638,1.0,None
-2639,0.3589315675425922,Expansion in existing market (product/service/geographical)
+2639,0.35893156754259226,Expansion in existing market (product/service/geographical)
 2640,1.0,None
 2641,1.0,None
 2642,0.980013986013986,None
@@ -2857,7 +2857,7 @@ service improvement"
 acquisitions"
 2648,0.9951453634085212,None
 2649,0.718,None
-2650,0.7166523027075029,None
+2650,0.7166523027075028,None
 2651,1.0,None
 2652,0.3740583066052301,"Merger & 
 acquisitions"
@@ -3009,16 +3009,16 @@ service offering"
 2788,0.8080838853143961,None
 2789,1.0,None
 2790,1.0,None
-2791,0.42024144938473446,None
-2792,0.9551029644325834,"New product introduction/
+2791,0.42024144938473457,None
+2792,0.9551029644325835,"New product introduction/
 service offering"
 2793,0.6202208410451153,None
 2794,0.678,R&D-related actions
 2795,1.0,None
 2796,1.0,None
 2797,1.0,None
-2798,0.6242719804032968,None
-2799,0.3743104955121753,None
+2798,0.6242719804032969,None
+2799,0.37431049551217543,None
 2800,1.0,None
 2801,1.0,None
 2802,1.0,None
@@ -3057,7 +3057,7 @@ acquisitions"
 acquisitions"
 2833,1.0,None
 2834,0.9020168236077769,None
-2835,0.7377948173120839,None
+2835,0.737794817312084,None
 2836,1.0,None
 2837,1.0,None
 2838,1.0,None
@@ -3074,7 +3074,7 @@ acquisitions"
 2849,0.913480186855841,None
 2850,0.7580092785032158,"Corporate 
 governance"
-2851,0.5639966017485227,None
+2851,0.5639966017485226,None
 2852,0.994,None
 2853,0.9900038702749648,None
 2854,1.0,None
@@ -3087,7 +3087,7 @@ governance"
 2861,0.922,None
 2862,0.768279176201373,None
 2863,0.8160016550250575,None
-2864,0.7002433568112924,R&D-related actions
+2864,0.7002433568112925,R&D-related actions
 2865,0.9940023284051187,None
 2866,0.852,None
 2867,1.0,None
@@ -3103,7 +3103,7 @@ service offering"
 2876,0.976,None
 2877,0.488,"New product introduction/
 service offering"
-2878,0.4600321359737859,None
+2878,0.46003213597378595,None
 2879,1.0,None
 2880,1.0,"Corporate 
 governance"
@@ -3143,7 +3143,7 @@ acquisitions"
 2911,1.0,None
 2912,1.0,None
 2913,1.0,None
-2914,0.8124719284173473,None
+2914,0.8124719284173472,None
 2915,1.0,None
 2916,0.996,None
 2917,0.636,R&D-related actions
@@ -3191,7 +3191,7 @@ acquisitions"
 2957,0.996,None
 2958,0.998,None
 2959,1.0,None
-2960,0.9134421510677251,Production-related actions
+2960,0.9134421510677249,Production-related actions
 2961,0.74473802363958,None
 2962,0.516,Strategic alliance
 2963,1.0,None
@@ -3220,7 +3220,7 @@ acquisitions"
 2986,0.9940171472858205,None
 2987,0.998,None
 2988,0.404,Production-related actions
-2989,0.30680176453412644,"New product introduction/
+2989,0.3068017645341264,"New product introduction/
 service offering"
 2990,0.984,None
 2991,0.668,None
@@ -3259,7 +3259,7 @@ service improvement"
 3021,0.9781118176961927,None
 3022,0.79,Financing
 3023,0.294,None
-3024,0.9422159665289339,"Corporate 
+3024,0.9422159665289338,"Corporate 
 governance"
 3025,0.9660168369542821,None
 3026,0.892,None
@@ -3293,21 +3293,21 @@ service offering"
 3052,0.94,Production-related actions
 3053,1.0,None
 3054,1.0,None
-3055,0.20267459629187443,"Product/
+3055,0.2026745962918744,"Product/
 service improvement"
 3056,0.4029666680461213,Divestiture
 3057,0.94,None
 3058,1.0,None
 3059,1.0,None
 3060,1.0,None
-3061,0.23039058471283794,None
+3061,0.23039058471283796,None
 3062,1.0,None
 3063,1.0,None
 3064,0.998,None
 3065,1.0,None
 3066,0.59,Marketing
 3067,0.98,None
-3068,0.37331936250358233,Marketing
+3068,0.3733193625035823,Marketing
 3069,0.7333266208125806,None
 3070,1.0,None
 3071,0.608,Divestiture
@@ -3315,7 +3315,7 @@ service improvement"
 3073,1.0,None
 3074,0.809916648912061,Marketing
 3075,1.0,None
-3076,0.4366797816986118,Venturing
+3076,0.43667978169861177,Venturing
 3077,0.2767501340744845,None
 3078,0.756,None
 3079,0.876,"Product/
@@ -3345,7 +3345,7 @@ governance"
 3101,0.98,None
 3102,1.0,None
 3103,0.6483910817100255,R&D-related actions
-3104,0.9075315258874825,"Merger & 
+3104,0.9075315258874826,"Merger & 
 acquisitions"
 3105,0.8660662819745016,None
 3106,1.0,None
@@ -3367,7 +3367,7 @@ service offering"
 3120,0.9525917746043145,None
 3121,0.964,None
 3122,0.764,None
-3123,0.43894633744291184,None
+3123,0.4389463374429119,None
 3124,0.8680283730158731,None
 3125,0.73,None
 3126,1.0,None
@@ -3378,7 +3378,7 @@ service offering"
 service offering"
 3131,0.97,None
 3132,1.0,None
-3133,0.4642505508138899,Production-related actions
+3133,0.46425055081388994,Production-related actions
 3134,1.0,None
 3135,0.6132610497204714,None
 3136,0.994,None
@@ -3415,7 +3415,7 @@ service offering"
 3167,0.6899368973436409,Human resources
 3168,0.998,None
 3169,1.0,None
-3170,0.5733355739263856,Production-related actions
+3170,0.5733355739263857,Production-related actions
 3171,1.0,None
 3172,1.0,None
 3173,0.49819446388036953,"Corporate 
@@ -3430,7 +3430,7 @@ governance"
 3181,1.0,None
 3182,1.0,None
 3183,0.9895515873015872,None
-3184,0.36108021769943205,Financing
+3184,0.3610802176994321,Financing
 3185,1.0,None
 3186,0.998,None
 3187,1.0,None
@@ -3453,12 +3453,12 @@ governance"
 3203,0.784,None
 3204,1.0,None
 3205,0.4558729211383637,Expansion in existing market (product/service/geographical)
-3206,0.8105755335334824,Marketing
+3206,0.8105755335334826,Marketing
 3207,0.9942567741935485,None
 3208,0.9935839598997496,None
 3209,0.9981,None
 3210,0.994,Strategic alliance
-3211,0.6626512689592046,Market entry
+3211,0.6626512689592045,Market entry
 3212,0.9506976386358741,None
 3213,0.9278669331392874,"Product/
 service improvement"
@@ -3488,7 +3488,7 @@ governance"
 3235,0.98,None
 3236,0.648,None
 3237,0.998,None
-3238,0.3293527069786614,Divestiture
+3238,0.32935270697866137,Divestiture
 3239,0.9852142483875811,None
 3240,0.12438807248238044,None
 3241,0.782,Divestiture
@@ -3515,7 +3515,7 @@ service offering"
 3260,1.0,None
 3261,1.0,None
 3262,0.3081848475176884,None
-3263,0.46879557263746385,"Merger & 
+3263,0.46879557263746374,"Merger & 
 acquisitions"
 3264,0.871425302734234,None
 3265,1.0,None
@@ -3529,7 +3529,7 @@ acquisitions"
 3273,1.0,None
 3274,1.0,None
 3275,1.0,None
-3276,0.5345543752531022,Marketing
+3276,0.5345543752531021,Marketing
 3277,0.768,None
 3278,1.0,None
 3279,0.6592276244928801,"Merger & 
@@ -3543,7 +3543,7 @@ acquisitions"
 3286,0.7828537276976338,"Product/
 service improvement"
 3287,0.9501309463840828,None
-3288,0.5814361044066971,Human resources
+3288,0.5814361044066972,Human resources
 3289,1.0,None
 3290,0.4368142612753733,R&D-related actions
 3291,0.8571215079483164,"Merger & 
@@ -3617,7 +3617,7 @@ acquisitions"
 3355,1.0,None
 3356,0.996,None
 3357,1.0,None
-3358,0.5391112776199269,Financing
+3358,0.5391112776199268,Financing
 3359,0.77,None
 3360,1.0,None
 3361,1.0,None
@@ -3646,10 +3646,10 @@ service improvement"
 3383,0.99,None
 3384,0.314,Financing
 3385,1.0,None
-3386,0.33564559621204004,Strategic alliance
+3386,0.33564559621204,Strategic alliance
 3387,1.0,None
 3388,1.0,None
-3389,0.41479250726726624,Financing
+3389,0.4147925072672663,Financing
 3390,1.0,None
 3391,1.0,None
 3392,1.0,None
@@ -3666,7 +3666,7 @@ service improvement"
 3403,0.4506989347204636,Expansion in existing market (product/service/geographical)
 3404,1.0,None
 3405,0.6863321406811985,None
-3406,0.3004280762756003,Venturing
+3406,0.30042807627560036,Venturing
 3407,1.0,None
 3408,1.0,None
 3409,0.980204178770197,None
@@ -3678,7 +3678,7 @@ service improvement"
 3414,1.0,None
 3415,1.0,None
 3416,0.612,None
-3417,0.5320658145165494,Expansion in existing market (product/service/geographical)
+3417,0.5320658145165493,Expansion in existing market (product/service/geographical)
 3418,0.998,None
 3419,0.564,Expansion in existing market (product/service/geographical)
 3420,0.8280863777986093,None
@@ -3689,7 +3689,7 @@ service improvement"
 3425,1.0,None
 3426,0.996,None
 3427,1.0,None
-3428,0.4107250518197946,Marketing
+3428,0.4107250518197945,Marketing
 3429,0.87,None
 3430,0.978,None
 3431,0.604,None
@@ -3748,7 +3748,7 @@ acquisitions"
 acquisitions"
 3479,1.0,None
 3480,0.998,None
-3481,0.46881954801696696,None
+3481,0.468819548016967,None
 3482,1.0,None
 3483,0.49441974125033156,None
 3484,1.0,None
@@ -3763,13 +3763,13 @@ acquisitions"
 3493,1.0,None
 3494,1.0,None
 3495,0.978,None
-3496,0.6043767083779411,None
+3496,0.6043767083779412,None
 3497,1.0,None
 3498,0.96,None
 3499,0.3976108037155554,"Corporate 
 governance"
 3500,0.9800107246538396,None
-3501,0.36914481962913137,None
+3501,0.3691448196291314,None
 3502,1.0,None
 3503,0.872,"Corporate 
 governance"
@@ -3853,7 +3853,7 @@ acquisitions"
 governance"
 3576,0.63,None
 3577,1.0,None
-3578,0.39808024119909896,"New product introduction/
+3578,0.398080241199099,"New product introduction/
 service offering"
 3579,1.0,None
 3580,0.334,None
@@ -3868,8 +3868,8 @@ service offering"
 3589,1.0,None
 3590,0.864,None
 3591,0.476,None
-3592,0.5968707655346396,None
-3593,0.6801593415640935,None
+3592,0.5968707655346395,None
+3593,0.6801593415640936,None
 3594,0.6338917732719903,"Merger & 
 acquisitions"
 3595,0.736,None
@@ -3886,7 +3886,7 @@ service improvement"
 3605,1.0,None
 3606,0.904,None
 3607,0.2740253632554605,None
-3608,0.7653125033571948,"Merger & 
+3608,0.7653125033571947,"Merger & 
 acquisitions"
 3609,1.0,None
 3610,0.852,None
@@ -3904,7 +3904,7 @@ acquisitions"
 3622,0.8812293411898067,Marketing
 3623,1.0,None
 3624,0.964130872656948,None
-3625,0.45543478844365604,None
+3625,0.455434788443656,None
 3626,0.7284703447283077,"Corporate 
 governance"
 3627,1.0,None
@@ -3919,7 +3919,7 @@ governance"
 3636,1.0,None
 3637,0.8895815127038348,None
 3638,0.996,None
-3639,0.47050402314168394,None
+3639,0.470504023141684,None
 3640,1.0,None
 3641,1.0,None
 3642,1.0,None
@@ -4006,7 +4006,7 @@ acquisitions"
 3718,0.8478786867094597,None
 3719,1.0,None
 3720,0.336,None
-3721,0.4193150485735698,R&D-related actions
+3721,0.41931504857356977,R&D-related actions
 3722,1.0,None
 3723,1.0,None
 3724,1.0,None
@@ -4019,9 +4019,9 @@ service improvement"
 3730,0.11615448011017418,Marketing
 3731,0.728,"Corporate 
 governance"
-3732,0.3262321640774038,"New product introduction/
+3732,0.32623216407740385,"New product introduction/
 service offering"
-3733,0.34008589265756856,Production-related actions
+3733,0.3400858926575685,Production-related actions
 3734,1.0,None
 3735,0.912,Production-related actions
 3736,0.95,None
@@ -4035,7 +4035,7 @@ governance"
 3743,1.0,None
 3744,0.406,None
 3745,0.886,None
-3746,0.6962403301620079,"Merger & 
+3746,0.696240330162008,"Merger & 
 acquisitions"
 3747,0.972,None
 3748,0.756,None
@@ -4092,7 +4092,7 @@ service improvement"
 3795,0.984,None
 3796,0.998,None
 3797,1.0,None
-3798,0.686852179832673,Financing
+3798,0.6868521798326731,Financing
 3799,1.0,None
 3800,1.0,None
 3801,0.99,None
@@ -4104,12 +4104,12 @@ service improvement"
 3807,1.0,None
 3808,0.632,"Corporate 
 governance"
-3809,0.260575436859402,"New product introduction/
+3809,0.26057543685940193,"New product introduction/
 service offering"
 3810,0.9940350877192982,None
 3811,0.7762521653047327,None
 3812,1.0,None
-3813,0.4759373081132197,Strategic alliance
+3813,0.47593730811321977,Strategic alliance
 3814,0.6075637729579739,None
 3815,1.0,None
 3816,0.5774028173194328,"Merger & 
@@ -4141,7 +4141,7 @@ governance"
 3840,0.942,None
 3841,0.986,None
 3842,1.0,None
-3843,0.8900546698266905,None
+3843,0.8900546698266903,None
 3844,0.878,None
 3845,0.8305651394301249,None
 3846,1.0,None
@@ -4215,12 +4215,12 @@ governance"
 3912,0.984,None
 3913,1.0,None
 3914,0.684,None
-3915,0.7906818579548269,"Merger & 
+3915,0.7906818579548268,"Merger & 
 acquisitions"
 3916,1.0,None
 3917,0.558,None
 3918,0.7102826820888091,Financing
-3919,0.3664146353906868,None
+3919,0.36641463539068686,None
 3920,0.5748686263891263,"Product/
 service improvement"
 3921,0.4993390402041064,Expansion in existing market (product/service/geographical)
@@ -4273,7 +4273,7 @@ governance"
 3965,1.0,None
 3966,1.0,None
 3967,1.0,None
-3968,0.42424707017156166,None
+3968,0.4242470701715617,None
 3969,0.9000475146853752,None
 3970,0.436,None
 3971,1.0,None
@@ -4286,7 +4286,7 @@ governance"
 3978,1.0,None
 3979,0.5688306026931738,Production-related actions
 3980,0.7342745674249118,None
-3981,0.7698706718187627,"Merger & 
+3981,0.7698706718187629,"Merger & 
 acquisitions"
 3982,0.99626,None
 3983,0.95,None
@@ -4294,12 +4294,12 @@ acquisitions"
 3985,1.0,None
 3986,0.588,Marketing
 3987,0.272,None
-3988,0.3786400055417073,None
+3988,0.37864000554170735,None
 3989,1.0,None
 3990,0.832,None
 3991,0.8664285714285714,None
 3992,1.0,None
-3993,0.6848005877519757,"Product/
+3993,0.6848005877519758,"Product/
 service improvement"
 3994,1.0,None
 3995,1.0,None
@@ -4307,7 +4307,7 @@ service improvement"
 3997,0.4288893500284896,"Merger & 
 acquisitions"
 3998,0.996,None
-3999,0.5585684038109587,Production-related actions
+3999,0.5585684038109588,Production-related actions
 4000,1.0,None
 4001,0.796,"Product/
 service improvement"
@@ -4318,7 +4318,7 @@ service improvement"
 4006,1.0,Venturing
 4007,1.0,None
 4008,1.0,None
-4009,0.8923065001782532,R&D-related actions
+4009,0.8923065001782533,R&D-related actions
 4010,1.0,None
 4011,0.996,None
 4012,0.912,None
@@ -4331,7 +4331,7 @@ service offering"
 4018,0.582,None
 4019,0.8363299080764212,Strategic alliance
 4020,0.966,Production-related actions
-4021,0.48726145944745064,Market entry
+4021,0.4872614594474506,Market entry
 4022,0.566,"New product introduction/
 service offering"
 4023,0.216,Financing
@@ -4354,7 +4354,7 @@ service offering"
 4040,1.0,None
 4041,0.67,"Merger & 
 acquisitions"
-4042,0.772683376246465,None
+4042,0.7726833762464651,None
 4043,0.874,None
 4044,0.936,None
 4045,1.0,None
@@ -4368,7 +4368,7 @@ acquisitions"
 4053,0.988,None
 4054,1.0,None
 4055,0.786,None
-4056,0.5356848247564471,"New product introduction/
+4056,0.5356848247564472,"New product introduction/
 service offering"
 4057,0.950262263926988,None
 4058,1.0,None
@@ -4393,7 +4393,7 @@ service improvement"
 4075,1.0,None
 4076,0.9821081081081081,None
 4077,0.6647655566596345,None
-4078,0.6639892386402794,None
+4078,0.6639892386402795,None
 4079,0.7648758031831505,None
 4080,0.444,None
 4081,0.846,R&D-related actions
@@ -4468,7 +4468,7 @@ governance"
 4143,0.98,None
 4144,1.0,None
 4145,0.516,Production-related actions
-4146,0.28327726177848717,None
+4146,0.2832772617784872,None
 4147,1.0,None
 4148,1.0,None
 4149,0.996,None
@@ -4478,15 +4478,15 @@ governance"
 4153,1.0,None
 4154,1.0,None
 4155,0.506,None
-4156,0.536582776081296,Production-related actions
-4157,0.8366488019766471,Production-related actions
+4156,0.5365827760812959,Production-related actions
+4157,0.836648801976647,Production-related actions
 4158,1.0,None
 4159,0.632,None
 4160,1.0,None
 4161,1.0,None
 4162,0.998,None
 4163,1.0,None
-4164,0.9952380570304747,Financing
+4164,0.9952380570304749,Financing
 4165,0.782,R&D-related actions
 4166,1.0,None
 4167,0.9164819961482442,None
@@ -4562,14 +4562,14 @@ service offering"
 4229,1.0,None
 4230,0.7081426341516357,None
 4231,0.996,None
-4232,0.3350416128386368,Marketing
+4232,0.33504161283863676,Marketing
 4233,1.0,None
 4234,1.0,None
 4235,1.0,None
 4236,0.972,None
 4237,0.9560307692307692,None
 4238,1.0,None
-4239,0.4012501735963231,Marketing
+4239,0.40125017359632315,Marketing
 4240,1.0,None
 4241,1.0,None
 4242,1.0,None
@@ -4577,12 +4577,12 @@ service offering"
 4244,0.39206918767507,None
 4245,1.0,None
 4246,0.566,Expansion in existing market (product/service/geographical)
-4247,0.9017712914488957,None
+4247,0.9017712914488958,None
 4248,0.7320372656977072,"Merger & 
 acquisitions"
 4249,1.0,None
 4250,0.986,None
-4251,0.34091982224861456,"New product introduction/
+4251,0.3409198222486146,"New product introduction/
 service offering"
 4252,1.0,None
 4253,0.576,None
@@ -4591,7 +4591,7 @@ service offering"
 4256,1.0,None
 4257,1.0,None
 4258,1.0,None
-4259,0.6724665236129234,"Product/
+4259,0.6724665236129233,"Product/
 service improvement"
 4260,0.996,None
 4261,0.742,"Corporate 
@@ -4611,7 +4611,7 @@ acquisitions"
 4273,0.3656147852147852,None
 4274,0.978,None
 4275,0.9400086206896551,None
-4276,0.6081607972835559,None
+4276,0.608160797283556,None
 4277,1.0,None
 4278,1.0,None
 4279,0.4983147056362451,Divestiture
@@ -4628,7 +4628,7 @@ acquisitions"
 4290,1.0,None
 4291,1.0,None
 4292,0.8702480644836916,None
-4293,0.1913946229489667,Production-related actions
+4293,0.19139462294896667,Production-related actions
 4294,1.0,None
 4295,0.7084201831324581,Market entry
 4296,0.802,None
@@ -4636,7 +4636,7 @@ acquisitions"
 4298,0.9640169143467694,None
 4299,0.28,None
 4300,0.786,None
-4301,0.29234683697400676,None
+4301,0.2923468369740069,None
 4302,0.716802635144156,Strategic alliance
 4303,1.0,None
 4304,0.98877389708859,Strategic alliance
@@ -4653,7 +4653,7 @@ acquisitions"
 4315,1.0,None
 4316,1.0,None
 4317,1.0,None
-4318,0.4295414963851301,"New product introduction/
+4318,0.42954149638513006,"New product introduction/
 service offering"
 4319,0.33289834654442807,"Product/
 service improvement"
@@ -4673,7 +4673,7 @@ service improvement"
 4333,1.0,None
 4334,0.4504906498080976,None
 4335,0.998,None
-4336,0.20092669608246017,"New product introduction/
+4336,0.20092669608246014,"New product introduction/
 service offering"
 4337,1.0,None
 4338,1.0,None
@@ -4703,7 +4703,7 @@ governance"
 4360,0.9952366522366523,None
 4361,0.382,Strategic alliance
 4362,0.6518152847152842,None
-4363,0.523923906164396,None
+4363,0.5239239061643959,None
 4364,0.982,None
 4365,0.6746789114200651,None
 4366,1.0,None
@@ -4729,8 +4729,8 @@ governance"
 4384,0.524,None
 4385,0.998,None
 4386,1.0,None
-4387,0.9720064630822092,None
-4388,0.3366752190326108,Human resources
+4387,0.9720064630822093,None
+4388,0.3366752190326107,Human resources
 4389,1.0,None
 4390,1.0,None
 4391,1.0,None
@@ -4772,7 +4772,7 @@ governance"
 4425,1.0,None
 4426,0.40705625477363083,"Corporate 
 governance"
-4427,0.6235223023228185,None
+4427,0.6235223023228186,None
 4428,0.862,None
 4429,0.4192728086981439,Divestiture
 4430,1.0,None
@@ -4797,10 +4797,10 @@ service improvement"
 4448,1.0,None
 4449,0.998,None
 4450,1.0,None
-4451,0.7365432687207415,None
+4451,0.7365432687207414,None
 4452,0.798,None
 4453,1.0,None
-4454,0.8063468536454312,Financing
+4454,0.8063468536454313,Financing
 4455,1.0,None
 4456,1.0,None
 4457,1.0,None
@@ -4808,11 +4808,11 @@ service improvement"
 4459,1.0,None
 4460,0.81,None
 4461,1.0,None
-4462,0.7587180570418852,None
+4462,0.7587180570418853,None
 4463,0.288,None
 4464,1.0,None
 4465,0.9542493978399718,None
-4466,0.3343287294210742,None
+4466,0.3343287294210743,None
 4467,1.0,None
 4468,0.5784595568954395,None
 4469,0.5100134082751426,"Corporate 
@@ -4830,8 +4830,8 @@ governance"
 4480,1.0,None
 4481,1.0,None
 4482,0.568,None
-4483,0.36017356271028284,Venturing
-4484,0.6125208181502889,None
+4483,0.3601735627102828,Venturing
+4484,0.612520818150289,None
 4485,1.0,None
 4486,1.0,None
 4487,0.39207269917247534,None
@@ -4853,7 +4853,7 @@ governance"
 4500,0.97,"New product introduction/
 service offering"
 4501,0.99,None
-4502,0.36410336235695456,Human resources
+4502,0.36410336235695445,Human resources
 4503,0.46094804056270927,"New product introduction/
 service offering"
 4504,0.798,"Corporate 
@@ -4912,7 +4912,7 @@ governance"
 4554,1.0,None
 4555,0.7030760808431955,"Corporate 
 governance"
-4556,0.28070224253676146,"Product/
+4556,0.2807022425367615,"Product/
 service improvement"
 4557,1.0,None
 4558,1.0,None
@@ -4929,7 +4929,7 @@ service improvement"
 4569,1.0,None
 4570,0.7561611115431652,Production-related actions
 4571,0.9346040587914906,None
-4572,0.6302592991870621,Marketing
+4572,0.6302592991870622,Marketing
 4573,1.0,None
 4574,0.678,None
 4575,1.0,None
@@ -4991,7 +4991,7 @@ governance"
 4628,0.5316886221222578,"Corporate 
 governance"
 4629,0.5170891893948478,Production-related actions
-4630,0.7552909655182204,Divestiture
+4630,0.7552909655182206,Divestiture
 4631,1.0,None
 4632,0.99,None
 4633,1.0,None
@@ -5025,7 +5025,7 @@ governance"
 4661,0.996,None
 4662,1.0,None
 4663,0.918879599173251,None
-4664,0.9849017039595624,Financing
+4664,0.9849017039595623,Financing
 4665,1.0,None
 4666,1.0,None
 4667,0.4126411142199162,None
@@ -5044,13 +5044,13 @@ governance"
 4680,0.918,None
 4681,1.0,None
 4682,0.244,None
-4683,0.7966470091527728,Divestiture
+4683,0.7966470091527726,Divestiture
 4684,1.0,None
 4685,0.946,Production-related actions
 4686,0.998,None
 4687,1.0,None
 4688,1.0,None
-4689,0.7960666666666667,None
+4689,0.7960666666666666,None
 4690,0.6015245464746063,"Product/
 service improvement"
 4691,1.0,None
@@ -5195,12 +5195,12 @@ acquisitions"
 4822,0.9400286119537214,None
 4823,1.0,None
 4824,0.512963540622889,Venturing
-4825,0.8638532142098224,None
+4825,0.8638532142098225,None
 4826,1.0,None
 4827,0.972,None
 4828,0.4736218778376598,Financing
 4829,1.0,None
-4830,0.5105470111671049,R&D-related actions
+4830,0.5105470111671048,R&D-related actions
 4831,0.36529992899257574,"Merger & 
 acquisitions"
 4832,0.3493280514727221,Strategic alliance
@@ -5232,19 +5232,19 @@ acquisitions"
 4856,0.834,None
 4857,0.888,None
 4858,0.694,Strategic alliance
-4859,0.4619278424805601,"Product/
+4859,0.46192784248056,"Product/
 service improvement"
 4860,0.646,None
 4861,1.0,None
 4862,0.74,None
-4863,0.5144518364050595,Market entry
+4863,0.5144518364050594,Market entry
 4864,0.484027397260274,None
 4865,1.0,None
 4866,1.0,None
 4867,1.0,None
 4868,0.992,None
 4869,0.998,None
-4870,0.36995493176389005,"New product introduction/
+4870,0.36995493176389,"New product introduction/
 service offering"
 4871,0.584,None
 4872,0.51,"Corporate 
@@ -5290,7 +5290,7 @@ acquisitions"
 governance"
 4910,1.0,None
 4911,0.49,None
-4912,0.5001421119254181,"New product introduction/
+4912,0.500142111925418,"New product introduction/
 service offering"
 4913,0.9062075421105233,"Product/
 service improvement"
@@ -5307,14 +5307,14 @@ governance"
 4923,0.44602739726027396,None
 4924,1.0,None
 4925,1.0,None
-4926,0.5204676315297871,Human resources
+4926,0.5204676315297873,Human resources
 4927,0.652,None
 4928,1.0,None
 4929,0.93,Strategic alliance
 4930,0.926343431859338,None
 4931,0.394,Strategic alliance
 4932,0.998,None
-4933,0.6392803037142122,None
+4933,0.6392803037142123,None
 4934,1.0,None
 4935,1.0,None
 4936,0.59,None
@@ -5383,7 +5383,7 @@ acquisitions"
 4993,0.998,None
 4994,0.9785553574965339,None
 4995,1.0,None
-4996,0.9207109189535566,Venturing
+4996,0.9207109189535567,Venturing
 4997,0.996,None
 4998,0.9823225756603237,None
 4999,1.0,None
@@ -5409,7 +5409,7 @@ governance"
 5017,0.48225432230646514,None
 5018,0.748,None
 5019,0.8221732375830763,None
-5020,0.47626643869302315,None
+5020,0.47626643869302304,None
 5021,0.9880331125827815,None
 5022,1.0,None
 5023,0.878,None
@@ -5459,7 +5459,7 @@ acquisitions"
 5064,1.0,None
 5065,0.994,None
 5066,1.0,None
-5067,0.7081285074157639,None
+5067,0.708128507415764,None
 5068,0.3464116581491097,None
 5069,0.9225484254376141,None
 5070,1.0,None
@@ -5471,9 +5471,9 @@ acquisitions"
 5076,0.932062015652943,None
 5077,1.0,None
 5078,0.998,None
-5079,0.5890841640471671,Production-related actions
+5079,0.5890841640471673,Production-related actions
 5080,1.0,None
-5081,0.34847012538625327,"Corporate 
+5081,0.3484701253862533,"Corporate 
 governance"
 5082,1.0,None
 5083,1.0,None
@@ -5494,7 +5494,7 @@ service offering"
 5097,1.0,None
 5098,0.5695710344464916,None
 5099,0.958,Production-related actions
-5100,0.9075315258874825,"Merger & 
+5100,0.9075315258874826,"Merger & 
 acquisitions"
 5101,0.3275462700391833,Market entry
 5102,0.898,None
@@ -5535,7 +5535,7 @@ service improvement"
 5134,0.94,None
 5135,0.98,None
 5136,1.0,None
-5137,0.612251917263727,"Product/
+5137,0.6122519172637271,"Product/
 service improvement"
 5138,1.0,None
 5139,0.986,None
@@ -5560,7 +5560,7 @@ service improvement"
 5158,0.7929175005600192,None
 5159,0.4071859508311494,None
 5160,1.0,None
-5161,0.45559898813689487,Expansion in existing market (product/service/geographical)
+5161,0.4555989881368948,Expansion in existing market (product/service/geographical)
 5162,0.864,None
 5163,0.3323609180572951,Venturing
 5164,0.434,R&D-related actions
@@ -5593,7 +5593,7 @@ service offering"
 5190,1.0,None
 5191,1.0,None
 5192,0.412,R&D-related actions
-5193,0.3168543288220326,"Merger & 
+5193,0.31685432882203257,"Merger & 
 acquisitions"
 5194,1.0,None
 5195,1.0,None
@@ -5611,7 +5611,7 @@ acquisitions"
 5207,1.0,None
 5208,0.1404258586041741,None
 5209,0.4860991575251736,Production-related actions
-5210,0.40691449613566744,None
+5210,0.4069144961356675,None
 5211,0.622,None
 5212,0.662,None
 5213,1.0,None
@@ -5664,7 +5664,7 @@ service offering"
 5256,1.0,None
 5257,0.982,None
 5258,0.464,Human resources
-5259,0.6561146558492225,R&D-related actions
+5259,0.6561146558492224,R&D-related actions
 5260,0.994,None
 5261,1.0,None
 5262,0.8740872657603398,None
@@ -5702,7 +5702,7 @@ service improvement"
 5293,1.0,None
 5294,0.99,None
 5295,1.0,None
-5296,0.3563239793897991,None
+5296,0.35632397938979904,None
 5297,1.0,None
 5298,0.976,None
 5299,1.0,None
@@ -5713,7 +5713,7 @@ service improvement"
 5303,0.934,None
 5304,1.0,None
 5305,0.984,None
-5306,0.8380733353212229,None
+5306,0.8380733353212227,None
 5307,1.0,None
 5308,1.0,None
 5309,0.636524656613413,None
@@ -5727,13 +5727,13 @@ service improvement"
 acquisitions"
 5317,0.536,None
 5318,0.458,None
-5319,0.3075659566899377,R&D-related actions
+5319,0.30756595668993764,R&D-related actions
 5320,0.94,"Product/
 service improvement"
 5321,1.0,None
 5322,1.0,None
 5323,1.0,None
-5324,0.46856612422318744,Marketing
+5324,0.4685661242231875,Marketing
 5325,0.792,None
 5326,0.926,None
 5327,1.0,None
@@ -5748,12 +5748,12 @@ service improvement"
 5336,0.8440784511332414,None
 5337,0.836,"Corporate 
 governance"
-5338,0.11914825651224903,Marketing
+5338,0.11914825651224902,Marketing
 5339,0.966,None
 5340,1.0,None
 5341,1.0,None
 5342,1.0,None
-5343,0.7608332611922528,"New product introduction/
+5343,0.7608332611922527,"New product introduction/
 service offering"
 5344,0.998,None
 5345,0.366,None
@@ -5783,13 +5783,13 @@ acquisitions"
 service improvement"
 5367,1.0,None
 5368,1.0,None
-5369,0.11466541672923286,Marketing
+5369,0.11466541672923287,Marketing
 5370,1.0,None
 5371,0.988,None
 5372,0.996,None
 5373,0.46,None
 5374,1.0,None
-5375,0.4989975066187362,"Product/
+5375,0.49899750661873615,"Product/
 service improvement"
 5376,1.0,None
 5377,0.7748662607719972,None
@@ -5816,7 +5816,7 @@ service improvement"
 5398,0.668,Production-related actions
 5399,1.0,None
 5400,1.0,None
-5401,0.7216197858819241,Expansion in existing market (product/service/geographical)
+5401,0.7216197858819242,Expansion in existing market (product/service/geographical)
 5402,1.0,None
 5403,1.0,None
 5404,1.0,None
@@ -5827,7 +5827,7 @@ service improvement"
 5409,0.628,"Merger & 
 acquisitions"
 5410,1.0,None
-5411,0.34912447779762446,Venturing
+5411,0.3491244777976244,Venturing
 5412,0.8290391423956487,None
 5413,1.0,None
 5414,1.0,None
@@ -5837,7 +5837,7 @@ acquisitions"
 5418,0.784,None
 5419,1.0,None
 5420,0.22087036324529807,R&D-related actions
-5421,0.7614190611435494,"Merger & 
+5421,0.7614190611435496,"Merger & 
 acquisitions"
 5422,1.0,None
 5423,1.0,None
@@ -5864,7 +5864,7 @@ acquisitions"
 5444,1.0,None
 5445,0.952,None
 5446,1.0,None
-5447,0.6397184640485521,None
+5447,0.639718464048552,None
 5448,0.566,None
 5449,0.5335342517810246,None
 5450,0.64,None
@@ -5896,7 +5896,7 @@ service improvement"
 5475,0.578185490657257,Human resources
 5476,1.0,None
 5477,0.8935793449870628,None
-5478,0.5121732643939514,Financing
+5478,0.5121732643939515,Financing
 5479,1.0,None
 5480,0.5696217901164199,None
 5481,0.652192005883173,None
@@ -5923,12 +5923,12 @@ service offering"
 5500,0.664,None
 5501,0.928,None
 5502,0.994,None
-5503,0.3178867183336125,"Corporate 
+5503,0.31788671833361243,"Corporate 
 governance"
 5504,1.0,None
 5505,1.0,None
 5506,1.0,None
-5507,0.9239156744444269,Venturing
+5507,0.9239156744444271,Venturing
 5508,1.0,None
 5509,0.9843579906588443,None
 5510,1.0,None
@@ -5948,7 +5948,7 @@ service improvement"
 5523,0.778,Production-related actions
 5524,1.0,None
 5525,1.0,None
-5526,0.5617323661483419,Market entry
+5526,0.5617323661483418,Market entry
 5527,0.872,"Corporate 
 governance"
 5528,1.0,None
@@ -5986,7 +5986,7 @@ governance"
 5560,1.0,None
 5561,1.0,None
 5562,1.0,None
-5563,0.6232451658086973,None
+5563,0.6232451658086972,None
 5564,1.0,None
 5565,0.992,None
 5566,0.541064346988787,"Corporate 
@@ -6070,7 +6070,7 @@ service offering"
 5637,1.0,None
 5638,1.0,None
 5639,1.0,None
-5640,0.5772322771066661,"New product introduction/
+5640,0.577232277106666,"New product introduction/
 service offering"
 5641,0.562861929029597,Divestiture
 5642,1.0,None
@@ -6093,7 +6093,7 @@ service offering"
 5658,0.3914403507137847,Production-related actions
 5659,1.0,None
 5660,0.986,None
-5661,0.8844994952197294,Divestiture
+5661,0.8844994952197295,Divestiture
 5662,0.5217372649473709,"Merger & 
 acquisitions"
 5663,1.0,None
@@ -6115,7 +6115,7 @@ acquisitions"
 5679,1.0,None
 5680,0.868,"Corporate 
 governance"
-5681,0.3883446996943699,Financing
+5681,0.38834469969436985,Financing
 5682,0.968,None
 5683,0.502192659292269,None
 5684,1.0,None
@@ -6124,7 +6124,7 @@ governance"
 5687,1.0,None
 5688,0.94,None
 5689,0.9984545454545455,None
-5690,0.8675659735070501,Strategic alliance
+5690,0.8675659735070502,Strategic alliance
 5691,1.0,None
 5692,0.7951628617038222,None
 5693,1.0,None
@@ -6226,7 +6226,7 @@ service offering"
 5783,0.998,None
 5784,1.0,None
 5785,0.9708881914164265,None
-5786,0.6491909560365877,None
+5786,0.6491909560365876,None
 5787,1.0,None
 5788,1.0,None
 5789,1.0,None
@@ -6256,7 +6256,7 @@ acquisitions"
 governance"
 5811,0.986,None
 5812,0.6028285750870399,None
-5813,0.29107777919922456,Divestiture
+5813,0.2910777791992246,Divestiture
 5814,0.3367116182086667,Financing
 5815,1.0,None
 5816,1.0,None
@@ -6269,7 +6269,7 @@ governance"
 5823,1.0,None
 5824,1.0,None
 5825,1.0,None
-5826,0.5184612843138309,Human resources
+5826,0.518461284313831,Human resources
 5827,0.984,"Corporate 
 governance"
 5828,1.0,None
@@ -6286,9 +6286,9 @@ acquisitions"
 5838,1.0,None
 5839,1.0,None
 5840,1.0,None
-5841,0.5311862201282792,Divestiture
+5841,0.5311862201282793,Divestiture
 5842,0.716,Human resources
-5843,0.11211341088246797,Marketing
+5843,0.11211341088246796,Marketing
 5844,1.0,None
 5845,1.0,None
 5846,1.0,None
@@ -6303,7 +6303,7 @@ acquisitions"
 5855,1.0,None
 5856,0.6584936517372688,None
 5857,1.0,None
-5858,0.7946357181880839,Marketing
+5858,0.794635718188084,Marketing
 5859,0.874,None
 5860,0.37467339187619375,R&D-related actions
 5861,0.666,None
@@ -6412,7 +6412,7 @@ service offering"
 5958,1.0,None
 5959,0.996,None
 5960,0.982,None
-5961,0.4051959424680055,Production-related actions
+5961,0.40519594246800555,Production-related actions
 5962,1.0,None
 5963,1.0,None
 5964,1.0,None
@@ -6457,7 +6457,7 @@ governance"
 6001,1.0,None
 6002,0.996,None
 6003,0.9740231213872833,None
-6004,0.6851001965422898,"New product introduction/
+6004,0.6851001965422899,"New product introduction/
 service offering"
 6005,1.0,None
 6006,0.992,None
@@ -6466,14 +6466,14 @@ service offering"
 6009,0.9640174924496401,None
 6010,0.992,None
 6011,1.0,None
-6012,0.5995442489920773,None
+6012,0.599544248992077,None
 6013,0.334,None
 6014,1.0,None
 6015,0.846,None
 6016,0.968,None
 6017,1.0,None
 6018,1.0,None
-6019,0.4692248537224459,R&D-related actions
+6019,0.4692248537224458,R&D-related actions
 6020,1.0,None
 6021,0.834,None
 6022,1.0,None
@@ -6488,14 +6488,14 @@ service offering"
 6031,0.454,R&D-related actions
 6032,1.0,None
 6033,1.0,None
-6034,0.378884389829581,"Product/
+6034,0.37888438982958095,"Product/
 service improvement"
 6035,0.924,R&D-related actions
 6036,0.7094375263479306,None
 6037,1.0,None
 6038,1.0,None
 6039,1.0,None
-6040,0.8840568137968846,None
+6040,0.8840568137968847,None
 6041,0.524,Financing
 6042,0.994008064516129,None
 6043,0.846,None
@@ -6508,13 +6508,13 @@ service improvement"
 6050,1.0,None
 6051,0.85,None
 6052,0.318,None
-6053,0.3066848231683223,"New product introduction/
+6053,0.30668482316832224,"New product introduction/
 service offering"
 6054,1.0,None
-6055,0.3669111843245961,Financing
+6055,0.36691118432459613,Financing
 6056,0.984,None
 6057,1.0,None
-6058,0.7453583212620739,Divestiture
+6058,0.745358321262074,Divestiture
 6059,0.996,Financing
 6060,0.884,None
 6061,1.0,None
@@ -6595,14 +6595,14 @@ acquisitions"
 6133,1.0,None
 6134,0.41397256503752683,Financing
 6135,0.89,None
-6136,0.12416001166186441,Marketing
+6136,0.1241600116618644,Marketing
 6137,0.944,None
-6138,0.4369608154822841,"Product/
+6138,0.43696081548228416,"Product/
 service improvement"
 6139,1.0,None
 6140,0.996,None
 6141,1.0,None
-6142,0.528898954308082,Marketing
+6142,0.5288989543080819,Marketing
 6143,0.4132947169919634,Strategic alliance
 6144,0.9820131578947369,None
 6145,1.0,None
@@ -6610,11 +6610,11 @@ service improvement"
 6147,0.96,None
 6148,0.9881114519610593,None
 6149,0.984,None
-6150,0.1624262225890318,None
+6150,0.16242622258903183,None
 6151,1.0,None
 6152,1.0,None
 6153,1.0,None
-6154,0.2603123870943886,None
+6154,0.26031238709438864,None
 6155,1.0,None
 6156,1.0,None
 6157,0.7406288152897126,"Merger & 
@@ -6623,7 +6623,7 @@ acquisitions"
 6159,0.594,Production-related actions
 6160,1.0,None
 6161,1.0,None
-6162,0.40266052918610845,Strategic alliance
+6162,0.4026605291861084,Strategic alliance
 6163,0.8220288760486245,"Merger & 
 acquisitions"
 6164,1.0,None
@@ -6655,14 +6655,14 @@ service offering"
 6188,1.0,None
 6189,1.0,None
 6190,1.0,None
-6191,0.3489686154101121,Human resources
+6191,0.34896861541011215,Human resources
 6192,0.998,None
 6193,0.66,None
-6194,0.30833233709579794,None
+6194,0.3083323370957979,None
 6195,0.996,None
 6196,0.936,Human resources
 6197,1.0,None
-6198,0.9363525075809039,"Corporate 
+6198,0.9363525075809038,"Corporate 
 governance"
 6199,1.0,None
 6200,0.95,None
@@ -6704,10 +6704,10 @@ governance"
 6235,1.0,None
 6236,0.992,None
 6237,0.992,None
-6238,0.23038754431130698,None
+6238,0.23038754431130695,None
 6239,0.3714237095859331,Market entry
 6240,1.0,None
-6241,0.5014704234726621,Divestiture
+6241,0.501470423472662,Divestiture
 6242,0.994,None
 6243,0.356,None
 6244,1.0,None
@@ -6744,20 +6744,20 @@ service offering"
 6274,1.0,None
 6275,1.0,None
 6276,1.0,None
-6277,0.5561216295637129,None
+6277,0.5561216295637128,None
 6278,0.844,Production-related actions
 6279,0.8880847714718477,None
 6280,0.936,None
-6281,0.5915737065166745,Expansion in existing market (product/service/geographical)
+6281,0.5915737065166744,Expansion in existing market (product/service/geographical)
 6282,0.986,None
 6283,0.976,"Corporate 
 governance"
 6284,1.0,None
 6285,1.0,None
 6286,1.0,None
-6287,0.373811637016152,Venturing
+6287,0.37381163701615205,Venturing
 6288,1.0,None
-6289,0.2951179861808391,Divestiture
+6289,0.2951179861808392,Divestiture
 6290,1.0,None
 6291,0.89,None
 6292,0.5170327845591092,Strategic alliance
@@ -6878,7 +6878,7 @@ service offering"
 6398,1.0,None
 6399,0.9595871725468634,None
 6400,0.9840740740740741,None
-6401,0.7442445219965669,"New product introduction/
+6401,0.744244521996567,"New product introduction/
 service offering"
 6402,0.844280909388826,None
 6403,0.998,None
@@ -6905,14 +6905,14 @@ governance"
 6422,0.998,None
 6423,0.76,None
 6424,0.992,None
-6425,0.6848535437425723,None
+6425,0.6848535437425725,None
 6426,1.0,None
 6427,1.0,None
 6428,0.822,None
 6429,1.0,None
 6430,1.0,None
 6431,1.0,None
-6432,0.5286828123725325,Divestiture
+6432,0.5286828123725326,Divestiture
 6433,0.2107017955925481,"Product/
 service improvement"
 6434,1.0,None
@@ -6986,7 +6986,7 @@ governance"
 6498,0.5043761904761906,None
 6499,0.9028865352898812,"Corporate 
 governance"
-6500,0.5672692472731946,"Product/
+6500,0.5672692472731947,"Product/
 service improvement"
 6501,0.998,None
 6502,0.696,Market entry
@@ -7015,7 +7015,7 @@ governance"
 6523,0.97,None
 6524,0.8062639790879794,None
 6525,0.722,None
-6526,0.5629875395911405,Marketing
+6526,0.5629875395911406,Marketing
 6527,1.0,None
 6528,0.4287613698536895,None
 6529,1.0,None
@@ -7044,7 +7044,7 @@ acquisitions"
 6550,0.38712751088099473,None
 6551,1.0,None
 6552,0.4755152132868791,None
-6553,0.361600783723699,Production-related actions
+6553,0.3616007837236991,Production-related actions
 6554,0.998,None
 6555,1.0,None
 6556,1.0,None
@@ -7058,7 +7058,7 @@ acquisitions"
 6564,1.0,None
 6565,0.98,None
 6566,1.0,None
-6567,0.9539110781641291,"Corporate 
+6567,0.9539110781641292,"Corporate 
 governance"
 6568,1.0,None
 6569,0.7402176469921,None
@@ -7127,7 +7127,7 @@ service offering"
 6628,1.0,None
 6629,1.0,None
 6630,0.974,None
-6631,0.44448323285847086,Human resources
+6631,0.4444832328584708,Human resources
 6632,0.392,Human resources
 6633,1.0,None
 6634,0.708,"Corporate 
@@ -7136,7 +7136,7 @@ governance"
 6636,1.0,None
 6637,0.9241175582371443,None
 6638,1.0,None
-6639,0.6584332736086531,None
+6639,0.6584332736086533,None
 6640,1.0,None
 6641,0.42227568016873057,None
 6642,1.0,None
@@ -7252,7 +7252,7 @@ acquisitions"
 6744,1.0,None
 6745,1.0,None
 6746,0.522,None
-6747,0.6413869180882678,Marketing
+6747,0.6413869180882676,Marketing
 6748,0.992,None
 6749,1.0,None
 6750,1.0,None
@@ -7275,7 +7275,7 @@ acquisitions"
 6766,1.0,None
 6767,1.0,None
 6768,1.0,None
-6769,0.5537181308025982,"Corporate 
+6769,0.5537181308025984,"Corporate 
 governance"
 6770,1.0,None
 6771,0.15842668402004875,None
@@ -7310,7 +7310,7 @@ governance"
 service improvement"
 6798,0.864,None
 6799,0.472,None
-6800,0.30392293127260317,Divestiture
+6800,0.3039229312726031,Divestiture
 6801,0.996,None
 6802,0.9980013153407707,None
 6803,1.0,None
@@ -7319,7 +7319,7 @@ service improvement"
 6806,1.0,None
 6807,0.36,None
 6808,0.9681204013377926,Strategic alliance
-6809,0.4882212171546294,Human resources
+6809,0.48822121715462946,Human resources
 6810,0.956,None
 6811,1.0,None
 6812,0.998,None
@@ -7328,7 +7328,7 @@ service improvement"
 6815,0.5936445887445888,None
 6816,1.0,None
 6817,0.9985714285714286,None
-6818,0.5599962021709342,Venturing
+6818,0.559996202170934,Venturing
 6819,0.874,None
 6820,0.812,Marketing
 6821,1.0,None
@@ -7339,7 +7339,7 @@ service improvement"
 6826,1.0,None
 6827,1.0,None
 6828,0.94,None
-6829,0.4662746134850066,Strategic alliance
+6829,0.46627461348500665,Strategic alliance
 6830,1.0,None
 6831,0.998,None
 6832,1.0,None
@@ -7348,9 +7348,9 @@ service offering"
 6834,0.9412818904771544,None
 6835,0.7681032946898649,Financing
 6836,0.986,None
-6837,0.6498150396766634,None
+6837,0.6498150396766635,None
 6838,1.0,None
-6839,0.3749997101964829,None
+6839,0.374999710196483,None
 6840,0.894,None
 6841,1.0,None
 6842,0.996,None
@@ -7427,7 +7427,7 @@ service offering"
 6906,0.972,None
 6907,1.0,None
 6908,0.672,Marketing
-6909,0.6301222411586151,Human resources
+6909,0.630122241158615,Human resources
 6910,0.99,None
 6911,0.976,"Merger & 
 acquisitions"
@@ -7497,13 +7497,13 @@ service offering"
 6970,1.0,None
 6971,1.0,None
 6972,1.0,None
-6973,0.747018076418413,None
+6973,0.7470180764184129,None
 6974,1.0,None
 6975,0.998,Financing
 6976,1.0,None
-6977,0.28262638336758417,Financing
+6977,0.28262638336758406,Financing
 6979,0.7765030799732153,None
-6980,0.7255782069455717,"New product introduction/
+6980,0.7255782069455718,"New product introduction/
 service offering"
 6981,0.9642296439529086,None
 6982,0.9055494981999384,"Corporate 
@@ -7524,12 +7524,12 @@ governance"
 6994,0.8128552684093882,"Product/
 service improvement"
 6995,1.0,None
-6996,0.4085757136064821,"Merger & 
+6996,0.40857571360648215,"Merger & 
 acquisitions"
 6997,0.714,None
 6998,0.914,Financing
 6999,1.0,None
-7000,0.5875761344479029,"New product introduction/
+7000,0.5875761344479028,"New product introduction/
 service offering"
 7001,0.4607618680155334,Expansion in existing market (product/service/geographical)
 7002,0.544,"Corporate 
@@ -7548,7 +7548,7 @@ acquisitions"
 7013,0.804,None
 7014,0.7196785757778635,None
 7015,0.99315,None
-7016,0.38392451881407913,"Corporate 
+7016,0.383924518814079,"Corporate 
 governance"
 7017,1.0,None
 7018,1.0,None
@@ -7561,7 +7561,7 @@ governance"
 7025,0.846,None
 7026,1.0,None
 7027,0.47583626373626375,None
-7028,0.8067081279869787,"Corporate 
+7028,0.8067081279869788,"Corporate 
 governance"
 7029,0.54,None
 7030,1.0,None
@@ -7609,7 +7609,7 @@ service offering"
 7070,1.0,None
 7071,1.0,None
 7072,1.0,None
-7073,0.6996915650630788,None
+7073,0.6996915650630787,None
 7074,1.0,None
 7075,0.9180331125827814,None
 7076,0.334,Strategic alliance
@@ -7654,7 +7654,7 @@ governance"
 7110,1.0,None
 7111,1.0,None
 7112,1.0,None
-7113,0.839246146630148,"Merger & 
+7113,0.8392461466301477,"Merger & 
 acquisitions"
 7114,0.56,None
 7115,0.95,None
@@ -7667,7 +7667,7 @@ acquisitions"
 7122,0.7322558305092082,None
 7123,1.0,None
 7124,1.0,None
-7125,0.5688547599789102,Expansion in existing market (product/service/geographical)
+7125,0.5688547599789101,Expansion in existing market (product/service/geographical)
 7126,0.988,None
 7127,1.0,None
 7128,1.0,None
@@ -7699,7 +7699,7 @@ acquisitions"
 service offering"
 7154,0.9608084032327838,None
 7155,0.918,None
-7156,0.5805740784742567,Venturing
+7156,0.5805740784742568,Venturing
 7157,0.856,None
 7158,1.0,None
 7159,0.9521158129345508,None
@@ -7709,7 +7709,7 @@ service offering"
 7163,0.996,None
 7164,0.5979141622937637,None
 7165,0.996,None
-7166,0.42977107189104974,Strategic alliance
+7166,0.4297710718910498,Strategic alliance
 7167,0.99,None
 7168,0.498,None
 7169,1.0,None
@@ -7725,7 +7725,7 @@ service offering"
 7179,0.5495351902529001,Market entry
 7180,1.0,None
 7181,1.0,None
-7182,0.43497505964935645,Venturing
+7182,0.4349750596493565,Venturing
 7183,0.5582212712126734,None
 7184,0.998,None
 7185,0.7092186980505065,None
@@ -7801,7 +7801,7 @@ governance"
 7251,1.0,None
 7252,0.6,"Corporate 
 governance"
-7253,0.6651601937877112,Marketing
+7253,0.665160193787711,Marketing
 7254,1.0,None
 7255,0.6907672109818935,Venturing
 7256,1.0,None
@@ -7817,8 +7817,8 @@ governance"
 7266,0.874,None
 7267,1.0,None
 7268,1.0,None
-7269,0.6836519624166681,Strategic alliance
-7270,0.6814283605125765,None
+7269,0.6836519624166683,Strategic alliance
+7270,0.6814283605125767,None
 7271,1.0,None
 7272,1.0,None
 7273,1.0,None
@@ -7865,7 +7865,7 @@ governance"
 7310,1.0,None
 7311,1.0,None
 7312,0.842,None
-7313,0.8205765412661704,R&D-related actions
+7313,0.8205765412661706,R&D-related actions
 7314,1.0,None
 7315,0.444,None
 7316,1.0,None
@@ -7889,7 +7889,7 @@ governance"
 7334,1.0,None
 7335,0.998,None
 7336,0.97,None
-7337,0.7795760653473439,None
+7337,0.7795760653473438,None
 7338,0.998,None
 7339,1.0,None
 7340,0.998,None
@@ -7918,7 +7918,7 @@ acquisitions"
 7361,0.8920707106772526,None
 7362,0.326,Marketing
 7363,0.525993684529403,Venturing
-7364,0.23514075209872445,"Product/
+7364,0.23514075209872448,"Product/
 service improvement"
 7365,0.976,None
 7366,0.97,None
@@ -7927,7 +7927,7 @@ service improvement"
 7369,0.364,None
 7370,0.994,None
 7371,0.9752058823529413,None
-7372,0.5512278326071187,"Product/
+7372,0.5512278326071186,"Product/
 service improvement"
 7373,1.0,None
 7374,0.3,None
@@ -7983,7 +7983,7 @@ service offering"
 7423,0.9280816477326973,None
 7424,1.0,None
 7425,0.974,None
-7426,0.38034689722042647,None
+7426,0.3803468972204265,None
 7427,1.0,None
 7428,0.9225771739766788,None
 7429,0.842,Production-related actions
@@ -8022,8 +8022,8 @@ acquisitions"
 7460,0.99,None
 7461,0.98,None
 7462,0.728,Human resources
-7463,0.9074167331887155,Market entry
-7464,0.4037287378177692,"Product/
+7463,0.9074167331887154,Market entry
+7464,0.40372873781776925,"Product/
 service improvement"
 7465,0.8222856598106313,None
 7466,1.0,None
@@ -8040,7 +8040,7 @@ service improvement"
 7477,0.924,None
 7478,1.0,None
 7479,0.814,None
-7480,0.5211703838234946,Divestiture
+7480,0.5211703838234945,Divestiture
 7481,1.0,None
 7482,1.0,None
 7483,1.0,None
@@ -8078,7 +8078,7 @@ governance"
 7511,1.0,None
 7512,1.0,None
 7513,1.0,None
-7514,0.5288175672517884,Production-related actions
+7514,0.5288175672517885,Production-related actions
 7515,1.0,None
 7516,0.978,None
 7517,0.9956,None
@@ -8175,7 +8175,7 @@ governance"
 7602,0.4577241920803041,Human resources
 7603,0.97401246105919,None
 7604,1.0,None
-7605,0.7044739823745583,"Product/
+7605,0.7044739823745584,"Product/
 service improvement"
 7606,0.996,None
 7607,0.876,None
@@ -8265,14 +8265,14 @@ governance"
 7689,1.0,None
 7690,1.0,None
 7691,0.994,None
-7692,0.6529190875809794,Marketing
+7692,0.6529190875809793,Marketing
 7693,1.0,None
 7694,1.0,None
 7695,0.55,"Product/
 service improvement"
 7696,0.17699467995871598,"Product/
 service improvement"
-7697,0.5935599191895111,Market entry
+7697,0.5935599191895112,Market entry
 7698,0.998,None
 7699,1.0,None
 7700,0.616,"Merger & 
@@ -8323,7 +8323,7 @@ governance"
 governance"
 7740,1.0,None
 7741,0.8772781962973903,None
-7742,0.18337169204263623,"Product/
+7742,0.18337169204263626,"Product/
 service improvement"
 7743,0.998,None
 7744,1.0,None
@@ -8344,14 +8344,14 @@ service improvement"
 7760,1.0,None
 7761,0.74067120171456,Venturing
 7762,1.0,None
-7763,0.48658203794069593,Market entry
+7763,0.4865820379406959,Market entry
 7764,1.0,None
 7765,1.0,None
 7766,1.0,None
 7767,0.968,Venturing
 7768,0.996,None
 7769,0.538,Production-related actions
-7770,0.9620543896669672,Divestiture
+7770,0.9620543896669674,Divestiture
 7771,1.0,None
 7772,0.788,None
 7773,0.724,None
@@ -8362,7 +8362,7 @@ service improvement"
 7778,0.3908559720141429,Financing
 7779,0.706,None
 7780,1.0,None
-7781,0.7772116641647417,None
+7781,0.7772116641647419,None
 7782,0.3722480711448766,None
 7783,1.0,None
 7784,0.998,None
@@ -8373,7 +8373,7 @@ service improvement"
 7789,0.6507837368198492,None
 7790,1.0,None
 7791,1.0,None
-7792,0.37814585691882674,Strategic alliance
+7792,0.3781458569188267,Strategic alliance
 7793,1.0,None
 7794,0.8150280021607575,None
 7795,0.37470804264462465,"Merger & 
@@ -8434,7 +8434,7 @@ service improvement"
 7848,1.0,None
 7849,1.0,None
 7850,0.998,None
-7851,0.6855341869567124,Financing
+7851,0.6855341869567123,Financing
 7852,1.0,None
 7853,1.0,None
 7854,1.0,None
@@ -8510,7 +8510,7 @@ acquisitions"
 7919,0.77,R&D-related actions
 7920,1.0,None
 7921,1.0,None
-7922,0.45339077861673416,Expansion in existing market (product/service/geographical)
+7922,0.4533907786167341,Expansion in existing market (product/service/geographical)
 7923,1.0,None
 7924,0.5808577400343853,None
 7925,0.962,None
@@ -8519,7 +8519,7 @@ acquisitions"
 7928,0.998,None
 7929,0.92,None
 7930,1.0,None
-7931,0.37534269442525126,Venturing
+7931,0.3753426944252512,Venturing
 7932,1.0,None
 7933,0.852,Production-related actions
 7934,0.922,Human resources
@@ -8540,10 +8540,10 @@ service offering"
 7948,0.54,None
 7949,1.0,None
 7950,0.8521858169399522,None
-7951,0.3615866431748073,Strategic alliance
+7951,0.3615866431748074,Strategic alliance
 7952,1.0,None
 7953,1.0,None
-7954,0.4728318979569742,"New product introduction/
+7954,0.4728318979569743,"New product introduction/
 service offering"
 7955,1.0,None
 7956,1.0,None
@@ -8564,7 +8564,7 @@ governance"
 7970,1.0,None
 7971,1.0,None
 7972,0.9720144694556949,None
-7973,0.7407748441515998,None
+7973,0.7407748441515996,None
 7974,0.5065954469279821,"Merger & 
 acquisitions"
 7975,0.988,None
@@ -8611,12 +8611,12 @@ governance"
 8012,0.984,None
 8013,1.0,None
 8014,0.748,None
-8015,0.25939817483121475,Production-related actions
+8015,0.2593981748312148,Production-related actions
 8016,1.0,None
 8017,1.0,None
 8018,1.0,None
 8019,0.892,None
-8020,0.4734927885230116,Production-related actions
+8020,0.4734927885230115,Production-related actions
 8021,0.698,None
 8022,0.936,None
 8023,0.5415809718059718,None
@@ -8648,7 +8648,7 @@ governance"
 8046,0.394743799064015,None
 8047,1.0,None
 8048,1.0,None
-8049,0.3437486633231994,Divestiture
+8049,0.3437486633231995,Divestiture
 8050,0.964,None
 8051,0.7014016610332525,"Merger & 
 acquisitions"
@@ -8680,7 +8680,7 @@ governance"
 8076,1.0,None
 8077,0.99,None
 8078,0.47,Expansion in existing market (product/service/geographical)
-8079,0.22718256641597645,R&D-related actions
+8079,0.22718256641597642,R&D-related actions
 8080,1.0,None
 8081,1.0,None
 8082,0.996,None
@@ -8702,7 +8702,7 @@ service offering"
 8097,0.994,None
 8098,0.998,None
 8099,0.998,None
-8100,0.6340491610847205,Human resources
+8100,0.6340491610847203,Human resources
 8101,0.26497832695948764,Marketing
 8102,1.0,None
 8103,0.72,"New product introduction/
@@ -8751,7 +8751,7 @@ service offering"
 8140,1.0,None
 8141,0.6911947976463255,Venturing
 8142,0.976,None
-8143,0.5237724622239783,"Merger & 
+8143,0.5237724622239782,"Merger & 
 acquisitions"
 8144,1.0,None
 8145,1.0,None
@@ -8760,10 +8760,10 @@ acquisitions"
 8148,1.0,None
 8149,0.984,Divestiture
 8150,1.0,Strategic alliance
-8151,0.5621371336981215,"Merger & 
+8151,0.5621371336981216,"Merger & 
 acquisitions"
-8152,0.8300875901809278,None
-8153,0.5537181308025982,"Corporate 
+8152,0.8300875901809277,None
+8153,0.5537181308025984,"Corporate 
 governance"
 8154,0.5949706977387722,None
 8155,1.0,None
@@ -8784,9 +8784,9 @@ governance"
 8170,0.996,None
 8171,1.0,None
 8172,1.0,None
-8173,0.42770969921912566,None
+8173,0.4277096992191256,None
 8174,0.994,None
-8175,0.8237426331084626,Strategic alliance
+8175,0.8237426331084624,Strategic alliance
 8176,0.954,None
 8177,0.516,Marketing
 8178,0.998,None
@@ -8799,10 +8799,10 @@ service improvement"
 8184,1.0,None
 8185,1.0,None
 8186,0.6767442062540525,Human resources
-8187,0.9824038461538461,None
+8187,0.9824038461538462,None
 8188,0.894880055572723,None
 8189,0.4020253677555241,Marketing
-8190,0.48979783121703485,Divestiture
+8190,0.4897978312170348,Divestiture
 8191,0.944,None
 8192,1.0,None
 8193,1.0,None
@@ -8824,7 +8824,7 @@ service offering"
 8207,0.9601728257570186,None
 8208,0.922,Venturing
 8209,1.0,None
-8210,0.9657213259857901,"Merger & 
+8210,0.9657213259857902,"Merger & 
 acquisitions"
 8211,0.948,None
 8212,1.0,None
@@ -8881,7 +8881,7 @@ service offering"
 8260,0.994,None
 8261,0.7294454398694682,"Merger & 
 acquisitions"
-8262,0.5311777389277389,Strategic alliance
+8262,0.5311777389277388,Strategic alliance
 8263,1.0,None
 8264,0.30522935421538167,Divestiture
 8265,0.9260430014430013,None
@@ -8931,7 +8931,7 @@ acquisitions"
 8309,0.96,None
 8310,1.0,None
 8311,0.99,None
-8312,0.6806886878470386,"New product introduction/
+8312,0.6806886878470387,"New product introduction/
 service offering"
 8313,0.994,None
 8314,1.0,None
@@ -8940,7 +8940,7 @@ service offering"
 8317,0.5552337655784545,"Merger & 
 acquisitions"
 8318,1.0,None
-8319,0.34110799228734523,R&D-related actions
+8319,0.3411079922873452,R&D-related actions
 8320,0.9802319300840406,None
 8321,1.0,None
 8322,0.7067247359847257,Financing
@@ -8948,7 +8948,7 @@ acquisitions"
 service offering"
 8324,0.5087069511586563,None
 8325,1.0,None
-8326,0.7305393333415223,"Merger & 
+8326,0.7305393333415222,"Merger & 
 acquisitions"
 8327,0.986,None
 8328,1.0,None
@@ -8956,7 +8956,7 @@ acquisitions"
 8330,0.6359654778569589,Marketing
 8331,1.0,None
 8332,1.0,None
-8333,0.7169397536991509,Market entry
+8333,0.7169397536991511,Market entry
 8334,0.996,None
 8335,0.6020394335330611,None
 8336,1.0,None
@@ -8996,7 +8996,7 @@ governance"
 8368,1.0,None
 8369,0.982,None
 8370,0.9521731995934203,None
-8371,0.8620433279214015,None
+8371,0.8620433279214016,None
 8372,1.0,None
 8373,1.0,None
 8374,1.0,"Corporate 
@@ -9049,7 +9049,7 @@ governance"
 8420,0.992,None
 8421,1.0,Production-related actions
 8422,0.966,None
-8423,0.45987206236748734,"New product introduction/
+8423,0.4598720623674874,"New product introduction/
 service offering"
 8424,1.0,None
 8425,0.998,None
@@ -9131,7 +9131,7 @@ governance"
 8494,1.0,None
 8495,1.0,None
 8496,0.956,None
-8497,0.5110913147437834,Market entry
+8497,0.5110913147437836,Market entry
 8498,1.0,None
 8499,0.974,None
 8500,0.282,Divestiture
@@ -9157,7 +9157,7 @@ governance"
 8519,0.89,None
 8520,0.9821503626428216,None
 8521,0.858,None
-8522,0.19608942188033388,"Product/
+8522,0.1960894218803339,"Product/
 service improvement"
 8523,0.7340272098584383,"Product/
 service improvement"
@@ -9172,9 +9172,9 @@ service improvement"
 8532,0.56,Strategic alliance
 8533,0.9344669521862894,Strategic alliance
 8534,1.0,None
-8535,0.529032261001447,"New product introduction/
+8535,0.5290322610014468,"New product introduction/
 service offering"
-8536,0.8479052533417056,None
+8536,0.8479052533417057,None
 8537,0.566,R&D-related actions
 8538,0.28792017777383494,Market entry
 8539,0.97,None
@@ -9193,7 +9193,7 @@ service offering"
 8552,0.998,None
 8553,1.0,None
 8554,0.5554340473197708,None
-8555,0.9305510498530117,"Corporate 
+8555,0.9305510498530118,"Corporate 
 governance"
 8556,0.9267627882564238,None
 8557,0.32461196900460776,"New product introduction/
@@ -9222,7 +9222,7 @@ governance"
 8578,1.0,None
 8579,0.9721585908286876,None
 8580,0.6807521466993541,None
-8581,0.7073730562365188,Human resources
+8581,0.7073730562365187,Human resources
 8582,0.5254034141521606,R&D-related actions
 8583,1.0,None
 8584,0.586,None
@@ -9297,7 +9297,7 @@ acquisitions"
 8647,1.0,None
 8648,0.8012829137524404,"New product introduction/
 service offering"
-8649,0.4116545911376397,Financing
+8649,0.41165459113763975,Financing
 8650,0.978,None
 8651,0.661892784864521,Strategic alliance
 8652,1.0,None
@@ -9372,7 +9372,7 @@ service improvement"
 8720,1.0,None
 8721,0.940887091503268,None
 8722,1.0,None
-8723,0.6354166287074376,Marketing
+8723,0.6354166287074375,Marketing
 8724,0.932,"Merger & 
 acquisitions"
 8725,1.0,None
@@ -9397,7 +9397,7 @@ governance"
 8742,0.674,None
 8743,0.56,None
 8744,0.478,None
-8745,0.3335391328816565,Venturing
+8745,0.33353913288165654,Venturing
 8746,0.964,None
 8747,0.996,None
 8748,0.972,None
@@ -9409,7 +9409,7 @@ governance"
 8754,1.0,None
 8755,0.9300306943239799,None
 8756,0.4620011630160884,None
-8757,0.2130473811114648,"Product/
+8757,0.21304738111146482,"Product/
 service improvement"
 8758,1.0,None
 8759,0.992,None
@@ -9430,7 +9430,7 @@ service offering"
 8773,0.968,None
 8774,0.994,None
 8775,1.0,None
-8776,0.44924588144350197,"New product introduction/
+8776,0.4492458814435019,"New product introduction/
 service offering"
 8777,1.0,None
 8778,1.0,None
@@ -9443,7 +9443,7 @@ service offering"
 8784,0.998,None
 8785,1.0,None
 8786,1.0,None
-8787,0.4265486060068543,Venturing
+8787,0.42654860600685435,Venturing
 8788,1.0,None
 8789,1.0,None
 8790,0.98,None
@@ -9493,7 +9493,7 @@ governance"
 8831,0.7898489921474461,"Corporate 
 governance"
 8832,1.0,None
-8833,0.4796651308815084,None
+8833,0.4796651308815083,None
 8834,1.0,None
 8835,0.6793282768243496,Divestiture
 8836,0.548,None
@@ -9510,7 +9510,7 @@ governance"
 8846,0.6087164584562346,Marketing
 8847,1.0,None
 8848,1.0,None
-8849,0.3586033376481005,"New product introduction/
+8849,0.35860333764810043,"New product introduction/
 service offering"
 8850,0.998,None
 8851,1.0,None
@@ -9525,10 +9525,10 @@ governance"
 8859,1.0,None
 8860,0.576,Financing
 8861,1.0,None
-8862,0.47977478972886456,Expansion in existing market (product/service/geographical)
+8862,0.4797747897288646,Expansion in existing market (product/service/geographical)
 8863,0.998,None
 8864,0.956,Strategic alliance
-8865,0.46961963269544016,Production-related actions
+8865,0.4696196326954402,Production-related actions
 8866,0.9680149479136501,None
 8867,0.9080999808084116,None
 8868,1.0,None
@@ -9551,7 +9551,7 @@ governance"
 8885,1.0,None
 8886,0.95,None
 8887,0.99,None
-8888,0.45153443416920735,"Corporate 
+8888,0.4515344341692073,"Corporate 
 governance"
 8889,0.994,None
 8890,1.0,None
@@ -9566,7 +9566,7 @@ governance"
 8899,1.0,None
 8900,0.96,None
 8901,1.0,None
-8902,0.6500596529377303,None
+8902,0.6500596529377304,None
 8903,0.946,"Product/
 service improvement"
 8904,0.988,None
@@ -9645,10 +9645,10 @@ service offering"
 8973,1.0,None
 8974,1.0,None
 8975,0.416,None
-8976,0.5986983757578387,Marketing
+8976,0.5986983757578388,Marketing
 8977,1.0,None
 8978,1.0,None
-8979,0.33540399818898997,Financing
+8979,0.33540399818899,Financing
 8980,1.0,None
 8981,1.0,None
 8982,1.0,None
@@ -9666,7 +9666,7 @@ governance"
 8993,1.0,None
 8994,0.894,None
 8995,0.528829615753891,Production-related actions
-8996,0.628830502759542,None
+8996,0.6288305027595421,None
 8997,0.992,None
 8998,1.0,None
 8999,1.0,None
@@ -9700,7 +9700,7 @@ service improvement"
 9026,0.48785502294412375,None
 9027,1.0,None
 9028,1.0,None
-9029,0.9287255062967101,None
+9029,0.92872550629671,None
 9030,0.494,None
 9031,0.97,None
 9032,0.964,None
@@ -9720,15 +9720,15 @@ acquisitions"
 9044,1.0,None
 9045,1.0,None
 9046,1.0,None
-9047,0.595870058641691,Strategic alliance
+9047,0.5958700586416908,Strategic alliance
 9048,1.0,None
 9049,1.0,None
-9050,0.32472785027466483,None
+9050,0.3247278502746648,None
 9051,1.0,None
 9052,1.0,None
 9053,0.9980166666666667,None
 9054,1.0,None
-9055,0.3157630784201142,Production-related actions
+9055,0.31576307842011414,Production-related actions
 9056,0.9580454545454545,None
 9057,0.7062711101432099,"Merger & 
 acquisitions"
@@ -9795,7 +9795,7 @@ acquisitions"
 9112,1.0,None
 9113,1.0,None
 9114,1.0,None
-9115,0.40625276760300444,Market entry
+9115,0.4062527676030045,Market entry
 9116,1.0,None
 9117,1.0,None
 9118,0.956,None
@@ -9811,7 +9811,7 @@ service offering"
 9126,0.968,None
 9127,0.994,None
 9128,1.0,None
-9129,0.2942379918583687,None
+9129,0.29423799185836874,None
 9130,1.0,None
 9131,1.0,None
 9132,1.0,None
@@ -9824,14 +9824,14 @@ service offering"
 9139,1.0,None
 9140,0.7979784299421924,Divestiture
 9141,0.9267066401025532,Financing
-9142,0.7237499911636335,None
+9142,0.7237499911636336,None
 9143,0.708,"New product introduction/
 service offering"
 9144,0.7328560641260878,None
 9145,0.646,None
 9146,1.0,None
 9147,1.0,None
-9148,0.8849860172671192,Divestiture
+9148,0.8849860172671191,Divestiture
 9149,1.0,None
 9150,0.9982135922330097,None
 9151,1.0,None
@@ -9854,7 +9854,7 @@ governance"
 9167,0.994,None
 9168,0.624,"Product/
 service improvement"
-9169,0.35491471496894245,"Product/
+9169,0.3549147149689425,"Product/
 service improvement"
 9170,1.0,None
 9171,1.0,None
@@ -9889,7 +9889,7 @@ service offering"
 9198,0.614,Marketing
 9199,0.838,None
 9200,1.0,None
-9201,0.3161961097022329,"New product introduction/
+9201,0.31619610970223283,"New product introduction/
 service offering"
 9202,0.954,None
 9203,0.728,"Merger & 
@@ -10093,7 +10093,7 @@ acquisitions"
 9387,0.672608120094169,Strategic alliance
 9388,1.0,None
 9389,1.0,None
-9390,0.5709050496956422,"Merger & 
+9390,0.570905049695642,"Merger & 
 acquisitions"
 9391,0.91,None
 9392,1.0,None
@@ -10129,7 +10129,7 @@ service offering"
 governance"
 9421,1.0,None
 9422,0.8846749763333165,None
-9423,0.17181053273285615,"Product/
+9423,0.17181053273285612,"Product/
 service improvement"
 9424,0.79,None
 9425,1.0,None
@@ -10190,7 +10190,7 @@ governance"
 9477,1.0,None
 9478,1.0,None
 9479,0.8482608695652174,Strategic alliance
-9480,0.2681423539885269,"New product introduction/
+9480,0.26814235398852687,"New product introduction/
 service offering"
 9481,1.0,None
 9482,0.3266229089038925,Financing
@@ -10204,7 +10204,7 @@ service offering"
 9490,0.9920635944514093,None
 9491,1.0,None
 9492,1.0,None
-9493,0.2984740743053872,"Merger & 
+9493,0.29847407430538714,"Merger & 
 acquisitions"
 9494,1.0,None
 9495,0.798,None
@@ -10238,7 +10238,7 @@ governance"
 9520,0.93,None
 9521,0.6281388135328566,None
 9522,0.992,None
-9523,0.7342391238895392,Venturing
+9523,0.734239123889539,Venturing
 9524,0.9220661597068716,Strategic alliance
 9525,0.8873402752432914,None
 9526,1.0,None
@@ -10268,22 +10268,22 @@ governance"
 9550,0.6930445611935192,Production-related actions
 9551,0.5553948394120266,None
 9552,1.0,None
-9553,0.826660482969429,"New product introduction/
+9553,0.8266604829694291,"New product introduction/
 service offering"
 9554,0.45575568246735937,"Merger & 
 acquisitions"
 9555,1.0,None
-9556,0.4970039467699697,"Merger & 
+9556,0.49700394676996973,"Merger & 
 acquisitions"
 9557,1.0,None
 9558,1.0,None
 9559,0.9680096295644738,None
 9560,1.0,None
 9561,0.39155812480202723,Strategic alliance
-9562,0.47252776003705815,"New product introduction/
+9562,0.4725277600370582,"New product introduction/
 service offering"
 9563,1.0,None
-9564,0.4946478479978539,Divestiture
+9564,0.49464784799785394,Divestiture
 9565,1.0,None
 9566,0.994,None
 9567,1.0,None
@@ -10308,12 +10308,12 @@ governance"
 9582,0.978,None
 9583,1.0,None
 9584,1.0,None
-9585,0.5160568524325879,Expansion in existing market (product/service/geographical)
+9585,0.5160568524325878,Expansion in existing market (product/service/geographical)
 9586,1.0,None
 9587,0.3706496981122649,Expansion in existing market (product/service/geographical)
 9588,1.0,None
-9589,0.6233932978785919,Expansion in existing market (product/service/geographical)
-9590,0.5727117915343442,None
+9589,0.623393297878592,Expansion in existing market (product/service/geographical)
+9590,0.5727117915343443,None
 9591,1.0,None
 9592,0.44627181113460174,Strategic alliance
 9593,0.43167684619302266,None
@@ -10332,7 +10332,7 @@ governance"
 9606,0.8044731231341514,None
 9607,0.968,None
 9608,1.0,None
-9609,0.6909857975750192,None
+9609,0.6909857975750191,None
 9610,0.92,None
 9611,1.0,None
 9612,0.740103820637809,None
@@ -10370,11 +10370,11 @@ governance"
 9643,0.990063556116015,None
 9644,0.946,Financing
 9645,1.0,None
-9646,0.3316241677673852,Financing
+9646,0.3316241677673851,Financing
 9647,0.99,None
 9648,0.7655427113539907,R&D-related actions
 9649,0.99,None
-9650,0.38508769373596763,Strategic alliance
+9650,0.3850876937359676,Strategic alliance
 9651,1.0,None
 9652,1.0,None
 9653,1.0,None
@@ -10401,12 +10401,12 @@ governance"
 9673,1.0,None
 9674,0.7737122710622713,"Product/
 service improvement"
-9675,0.37848421188117765,"Product/
+9675,0.3784842118811777,"Product/
 service improvement"
 9676,0.486,None
 9677,1.0,None
 9678,1.0,None
-9679,0.36857614322634336,Marketing
+9679,0.3685761432263433,Marketing
 9680,1.0,None
 9681,0.8457388573074147,Venturing
 9682,1.0,None
@@ -10458,7 +10458,7 @@ service improvement"
 9728,0.6469770928920799,Divestiture
 9729,1.0,None
 9730,1.0,None
-9731,0.8920652648280766,None
+9731,0.8920652648280765,None
 9732,0.938,None
 9733,0.992,None
 9734,1.0,None
@@ -10525,12 +10525,12 @@ service offering"
 9792,1.0,None
 9793,0.9559338940471295,None
 9794,1.0,None
-9795,0.373811637016152,Venturing
+9795,0.37381163701615205,Venturing
 9796,1.0,None
 9797,0.988,Production-related actions
 9798,0.4489371375769747,Strategic alliance
 9799,1.0,None
-9800,0.39658643665448434,Expansion in existing market (product/service/geographical)
+9800,0.3965864366544844,Expansion in existing market (product/service/geographical)
 9801,0.971447619047619,None
 9802,1.0,None
 9803,0.6245962653404317,None
@@ -10543,21 +10543,21 @@ service offering"
 9810,1.0,None
 9811,0.57,"Merger & 
 acquisitions"
-9812,0.7220855154775532,None
+9812,0.7220855154775531,None
 9813,1.0,None
 9814,1.0,None
 9815,0.994,None
 9816,1.0,None
 9817,0.9290895571210507,"Product/
 service improvement"
-9818,0.6855341869567124,Financing
+9818,0.6855341869567123,Financing
 9819,0.796,None
 9820,0.634,None
 9821,0.702,"Product/
 service improvement"
 9822,1.0,None
 9823,0.602,Marketing
-9824,0.6210016146943476,None
+9824,0.6210016146943477,None
 9825,0.994,None
 9826,0.34371723989440767,Divestiture
 9827,1.0,None
@@ -10570,9 +10570,9 @@ service offering"
 9833,1.0,None
 9834,1.0,None
 9835,1.0,None
-9836,0.6025580698741668,None
+9836,0.6025580698741669,None
 9837,1.0,None
-9838,0.9736413917511635,R&D-related actions
+9838,0.9736413917511634,R&D-related actions
 9839,1.0,None
 9840,1.0,None
 9841,1.0,None
@@ -10593,11 +10593,11 @@ service offering"
 9856,1.0,None
 9857,1.0,None
 9858,0.346,Expansion in existing market (product/service/geographical)
-9859,0.6824232816978889,R&D-related actions
+9859,0.6824232816978888,R&D-related actions
 9860,0.96,None
 9861,0.998,None
 9862,0.6282029482161586,None
-9863,0.4200121327150232,Human resources
+9863,0.42001213271502325,Human resources
 9864,0.708,"Merger & 
 acquisitions"
 9865,0.998,None
@@ -10606,7 +10606,7 @@ acquisitions"
 9868,0.8343671107400348,None
 9869,0.99,None
 9870,0.664,None
-9871,0.39870863868285994,"New product introduction/
+9871,0.39870863868286,"New product introduction/
 service offering"
 9872,1.0,None
 9873,1.0,None
@@ -10629,7 +10629,7 @@ service offering"
 9888,0.9368064308681672,Expansion in existing market (product/service/geographical)
 9889,1.0,None
 9890,0.394,Financing
-9891,0.4862617743353222,None
+9891,0.48626177433532214,None
 9892,0.246,"New product introduction/
 service offering"
 9893,0.74,"Corporate 
@@ -10686,7 +10686,7 @@ service offering"
 9939,1.0,None
 9940,0.77,None
 9941,0.9940032973032408,None
-9942,0.5511269561718984,"Product/
+9942,0.5511269561718983,"Product/
 service improvement"
 9943,1.0,None
 9944,0.95,None
@@ -10696,7 +10696,7 @@ service improvement"
 9948,0.58840767270262,None
 9949,0.998,None
 9950,0.324,None
-9951,0.15243036115513836,None
+9951,0.1524303611551384,None
 9952,0.7,None
 9953,0.982,None
 9954,1.0,None
@@ -10709,7 +10709,7 @@ service improvement"
 9960,1.0,None
 9961,0.98,None
 9962,1.0,None
-9963,0.5820629847511003,Venturing
+9963,0.5820629847511002,Venturing
 9964,0.958,None
 9965,0.828,Venturing
 9966,1.0,None
@@ -10717,7 +10717,7 @@ service improvement"
 9968,1.0,None
 9969,0.992,None
 9970,0.676,None
-9971,0.5781208455284927,None
+9971,0.5781208455284929,None
 9972,1.0,None
 9973,1.0,None
 9974,1.0,None
@@ -10777,7 +10777,7 @@ service offering"
 10026,1.0,None
 10027,1.0,None
 10028,0.9910370282717884,None
-10029,0.32340988342543187,Market entry
+10029,0.3234098834254318,Market entry
 10030,1.0,None
 10031,1.0,None
 10032,1.0,None
@@ -10808,8 +10808,8 @@ service offering"
 10057,0.97,Marketing
 10058,0.548,R&D-related actions
 10059,1.0,None
-10060,0.8519245448464204,Venturing
-10061,0.442942156423642,None
+10060,0.8519245448464203,Venturing
+10061,0.44294215642364193,None
 10062,1.0,None
 10063,1.0,None
 10064,0.512,Marketing
@@ -10867,7 +10867,7 @@ acquisitions"
 10113,1.0,None
 10114,1.0,None
 10115,0.908,None
-10116,0.12416229445183094,Marketing
+10116,0.12416229445183093,Marketing
 10117,0.835098789662351,None
 10118,1.0,None
 10119,0.686,None
@@ -10921,9 +10921,9 @@ governance"
 10166,0.946,"Merger & 
 acquisitions"
 10167,1.0,None
-10168,0.7100462458651444,None
+10168,0.7100462458651445,None
 10169,0.982,None
-10170,0.40757720280861354,Marketing
+10170,0.4075772028086135,Marketing
 10171,1.0,None
 10172,1.0,None
 10173,0.956,Strategic alliance
@@ -10942,7 +10942,7 @@ service offering"
 10184,0.636,None
 10185,1.0,None
 10186,1.0,None
-10187,0.11739646500557288,Marketing
+10187,0.1173964650055729,Marketing
 10188,1.0,None
 10189,0.916,None
 10190,1.0,None
@@ -10991,14 +10991,14 @@ governance"
 10232,0.998,None
 10233,0.3594312709933559,None
 10234,1.0,None
-10235,0.4331944719278527,Divestiture
+10235,0.43319447192785276,Divestiture
 10236,1.0,None
 10237,1.0,None
 10238,0.958,None
 10239,0.698,Strategic alliance
 10240,1.0,None
 10241,0.762,None
-10242,0.5982629093787875,None
+10242,0.5982629093787876,None
 10243,1.0,None
 10244,0.948,None
 10245,0.9700722300256135,None
@@ -11033,14 +11033,14 @@ governance"
 acquisitions"
 10272,1.0,None
 10273,1.0,None
-10274,0.3293527069786614,Divestiture
+10274,0.32935270697866137,Divestiture
 10275,0.5504636494296833,None
 10276,0.998,None
 10277,0.998,None
 10278,0.994,None
 10279,0.446,"Merger & 
 acquisitions"
-10280,0.3026787648514851,"Product/
+10280,0.30267876485148504,"Product/
 service improvement"
 10281,0.942,Production-related actions
 10282,1.0,None
@@ -11060,7 +11060,7 @@ service improvement"
 10296,0.9922119565217391,None
 10297,0.994,None
 10298,1.0,None
-10299,0.3412977401726359,"New product introduction/
+10299,0.34129774017263587,"New product introduction/
 service offering"
 10300,1.0,None
 10301,1.0,None
@@ -11070,7 +11070,7 @@ service offering"
 10305,0.99,None
 10306,0.996,None
 10307,1.0,None
-10308,0.1863597412369024,Expansion in existing market (product/service/geographical)
+10308,0.18635974123690238,Expansion in existing market (product/service/geographical)
 10309,1.0,None
 10310,0.51,None
 10311,1.0,None
@@ -11081,12 +11081,12 @@ service offering"
 10316,1.0,None
 10317,1.0,None
 10318,1.0,None
-10319,0.8253144598131823,Strategic alliance
+10319,0.8253144598131822,Strategic alliance
 10320,1.0,None
 10321,0.9652588744588746,None
 10322,1.0,None
 10323,1.0,None
-10324,0.5196116641314888,Market entry
+10324,0.519611664131489,Market entry
 10325,1.0,None
 10326,1.0,None
 10327,0.98,None
@@ -11155,7 +11155,7 @@ governance"
 10382,0.722,None
 10383,0.506,"Corporate 
 governance"
-10384,0.40808653262793176,None
+10384,0.4080865326279318,None
 10385,0.818,None
 10386,0.662988874679877,Production-related actions
 10387,0.942739118480278,None
@@ -11182,7 +11182,7 @@ governance"
 10408,1.0,None
 10409,1.0,None
 10410,0.972,None
-10411,0.4572171401841346,"New product introduction/
+10411,0.45721714018413456,"New product introduction/
 service offering"
 10412,1.0,None
 10413,1.0,None
@@ -11196,9 +11196,9 @@ service offering"
 10421,0.968,None
 10422,1.0,None
 10423,1.0,None
-10424,0.9476125058601912,"Product/
+10424,0.9476125058601913,"Product/
 service improvement"
-10425,0.7940398500778488,None
+10425,0.7940398500778489,None
 10426,0.948,Strategic alliance
 10427,0.994000783181184,None
 10428,0.856,None
@@ -11243,7 +11243,7 @@ governance"
 10464,1.0,None
 10465,0.788,Divestiture
 10466,1.0,None
-10467,0.471674540643258,"New product introduction/
+10467,0.4716745406432579,"New product introduction/
 service offering"
 10468,1.0,None
 10469,0.658,None
@@ -11251,7 +11251,7 @@ service offering"
 10471,1.0,None
 10472,1.0,None
 10473,1.0,None
-10474,0.8300875901809278,None
+10474,0.8300875901809277,None
 10475,0.4813723259949208,"Product/
 service improvement"
 10476,1.0,None
@@ -11305,7 +11305,7 @@ service offering"
 10522,1.0,None
 10523,0.998,None
 10524,1.0,None
-10525,0.3677503244062876,Venturing
+10525,0.3677503244062875,Venturing
 10526,1.0,None
 10527,0.596,None
 10528,0.878,"Corporate 
@@ -11339,11 +11339,11 @@ governance"
 10554,1.0,None
 10555,0.634,None
 10556,1.0,None
-10557,0.47071649126681553,Marketing
+10557,0.4707164912668156,Marketing
 10558,0.6167515644041265,Financing
 10559,0.958,None
 10560,0.83,None
-10561,0.39424572796637913,Expansion in existing market (product/service/geographical)
+10561,0.3942457279663791,Expansion in existing market (product/service/geographical)
 10562,1.0,None
 10563,1.0,None
 10564,1.0,None
@@ -11360,7 +11360,7 @@ governance"
 10575,0.994,None
 10576,0.99,None
 10577,0.254,None
-10578,0.2702279430335321,Divestiture
+10578,0.27022794303353204,Divestiture
 10579,0.996,None
 10580,1.0,None
 10581,0.432,Strategic alliance
@@ -11379,7 +11379,7 @@ governance"
 10593,0.816,None
 10594,0.992,None
 10595,0.7340972074307366,None
-10596,0.468252438965325,"New product introduction/
+10596,0.46825243896532504,"New product introduction/
 service offering"
 10597,0.22211214934560053,Financing
 10598,1.0,None
@@ -11438,7 +11438,7 @@ governance"
 10649,1.0,"Corporate 
 governance"
 10650,0.38278097058418487,Production-related actions
-10651,0.6912957828422578,"Merger & 
+10651,0.6912957828422579,"Merger & 
 acquisitions"
 10652,1.0,None
 10653,0.986,"Corporate 
@@ -11526,7 +11526,7 @@ service offering"
 acquisitions"
 10729,1.0,None
 10730,1.0,None
-10731,0.6892402665590014,Expansion in existing market (product/service/geographical)
+10731,0.6892402665590013,Expansion in existing market (product/service/geographical)
 10732,0.888,Human resources
 10733,1.0,None
 10734,1.0,None
@@ -11536,7 +11536,7 @@ acquisitions"
 10738,0.38473195130564597,None
 10739,1.0,None
 10740,0.8878077289793187,None
-10741,0.3318626711507897,None
+10741,0.33186267115078977,None
 10742,1.0,None
 10743,1.0,None
 10744,1.0,None
@@ -11585,7 +11585,7 @@ governance"
 10783,1.0,None
 10784,1.0,None
 10785,0.99625,None
-10786,0.9892028409011794,Financing
+10786,0.9892028409011795,Financing
 10787,0.684,"Corporate 
 governance"
 10788,1.0,None
@@ -11602,7 +11602,7 @@ governance"
 10798,1.0,None
 10799,0.99,None
 10800,1.0,None
-10801,0.38671755274219916,"Product/
+10801,0.3867175527421992,"Product/
 service improvement"
 10802,0.978,Production-related actions
 10803,0.7078507134047268,Human resources
