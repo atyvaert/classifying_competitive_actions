@@ -110,9 +110,8 @@ service offering"
 105,None
 106,None
 107,None
-108,None
-109,"Corporate 
-governance"
+108,Financing
+109,None
 110,None
 111,None
 112,None
@@ -144,7 +143,7 @@ governance"
 136,None
 137,None
 138,None
-139,None
+139,Divestiture
 140,None
 141,None
 142,None
@@ -204,7 +203,7 @@ governance"
 196,None
 197,None
 198,None
-199,Divestiture
+199,None
 200,None
 201,None
 202,None
@@ -215,7 +214,7 @@ governance"
 207,None
 208,None
 209,None
-210,Divestiture
+210,None
 211,None
 212,None
 213,None
@@ -240,7 +239,7 @@ governance"
 232,None
 233,None
 234,None
-235,None
+235,Divestiture
 236,None
 237,None
 238,None
@@ -249,7 +248,7 @@ governance"
 241,None
 242,None
 243,None
-244,None
+244,Expansion in existing market (product/service/geographical)
 245,None
 246,None
 247,None
@@ -269,8 +268,7 @@ governance"
 261,None
 262,None
 263,None
-264,"New product introduction/
-service offering"
+264,None
 265,"Merger & 
 acquisitions"
 266,None
@@ -318,9 +316,8 @@ governance"
 307,None
 308,None
 309,None
-310,"Corporate 
-governance"
-311,Production-related actions
+310,None
+311,None
 312,Expansion in existing market (product/service/geographical)
 313,None
 314,None
@@ -339,7 +336,7 @@ governance"
 327,None
 328,None
 329,Production-related actions
-330,None
+330,Human resources
 331,None
 332,None
 333,None
@@ -353,8 +350,7 @@ governance"
 341,None
 342,None
 343,None
-344,"New product introduction/
-service offering"
+344,Human resources
 345,None
 346,None
 347,None
@@ -403,7 +399,8 @@ governance"
 389,None
 390,None
 391,None
-392,Marketing
+392,"New product introduction/
+service offering"
 393,None
 394,None
 395,None
@@ -463,7 +460,7 @@ governance"
 447,None
 448,None
 449,None
-450,Financing
+450,None
 451,None
 452,None
 453,None
@@ -493,13 +490,14 @@ governance"
 477,None
 478,None
 479,None
-480,None
+480,"Merger & 
+acquisitions"
 481,None
 482,None
 483,None
 484,None
 485,None
-486,None
+486,Expansion in existing market (product/service/geographical)
 487,None
 488,None
 489,None
@@ -542,14 +540,15 @@ service offering"
 524,None
 525,None
 526,None
-527,None
+527,"Merger & 
+acquisitions"
 528,None
 529,None
 530,None
 531,None
 532,None
 533,None
-534,None
+534,Divestiture
 535,None
 536,None
 537,None
@@ -626,7 +625,7 @@ acquisitions"
 606,None
 607,None
 608,None
-609,Human resources
+609,None
 610,None
 611,None
 612,None
@@ -640,15 +639,16 @@ acquisitions"
 620,None
 621,None
 622,None
-623,None
+623,"Corporate 
+governance"
 624,None
 625,None
 626,None
 627,None
-628,None
+628,Divestiture
 629,None
 630,None
-631,R&D-related actions
+631,None
 632,None
 633,None
 634,None
@@ -699,7 +699,7 @@ acquisitions"
 677,None
 678,None
 679,None
-680,Expansion in existing market (product/service/geographical)
+680,None
 681,None
 682,None
 683,None
@@ -765,7 +765,7 @@ governance"
 742,None
 743,"Merger & 
 acquisitions"
-744,None
+744,Financing
 745,None
 746,None
 747,None
@@ -777,7 +777,7 @@ acquisitions"
 752,None
 753,None
 754,None
-755,Marketing
+755,None
 756,None
 757,None
 758,None
@@ -849,8 +849,7 @@ acquisitions"
 823,None
 824,None
 825,None
-826,"New product introduction/
-service offering"
+826,None
 827,None
 828,None
 829,None
@@ -873,7 +872,7 @@ service offering"
 846,None
 847,None
 848,None
-849,R&D-related actions
+849,None
 850,None
 851,None
 852,None
@@ -903,10 +902,11 @@ service offering"
 876,None
 877,None
 878,None
-879,None
+879,"Corporate 
+governance"
 880,None
 881,None
-882,Strategic alliance
+882,None
 883,"Corporate 
 governance"
 884,None
@@ -982,7 +982,7 @@ governance"
 953,None
 954,None
 955,Venturing
-956,None
+956,Strategic alliance
 957,None
 958,None
 959,None
@@ -1084,7 +1084,7 @@ governance"
 1054,None
 1055,None
 1056,None
-1057,Divestiture
+1057,None
 1058,None
 1059,None
 1060,None
@@ -1115,7 +1115,7 @@ governance"
 1085,None
 1086,None
 1087,None
-1088,Strategic alliance
+1088,None
 1089,None
 1090,None
 1091,None
@@ -1135,8 +1135,7 @@ governance"
 1105,None
 1106,None
 1107,None
-1108,"Merger & 
-acquisitions"
+1108,None
 1109,None
 1110,None
 1111,None
@@ -1177,8 +1176,10 @@ acquisitions"
 1146,None
 1147,None
 1148,None
-1149,None
-1150,None
+1149,"Product/
+service improvement"
+1150,"Corporate 
+governance"
 1151,None
 1152,None
 1153,None
@@ -1194,8 +1195,7 @@ service offering"
 1161,None
 1162,None
 1163,None
-1164,"New product introduction/
-service offering"
+1164,None
 1165,None
 1166,None
 1167,None
@@ -1215,8 +1215,7 @@ service offering"
 1181,None
 1182,None
 1183,None
-1184,"Corporate 
-governance"
+1184,None
 1185,None
 1186,None
 1187,None
@@ -1263,7 +1262,7 @@ governance"
 1226,None
 1227,None
 1228,None
-1229,Human resources
+1229,Strategic alliance
 1230,None
 1231,None
 1232,None
@@ -1323,7 +1322,7 @@ governance"
 1286,None
 1287,None
 1288,None
-1289,Divestiture
+1289,None
 1290,None
 1291,None
 1292,None
@@ -1348,7 +1347,7 @@ acquisitions"
 1310,None
 1311,None
 1312,None
-1313,Expansion in existing market (product/service/geographical)
+1313,Human resources
 1314,None
 1315,None
 1316,"New product introduction/
@@ -1360,7 +1359,8 @@ service offering"
 1321,None
 1322,None
 1323,None
-1324,None
+1324,"Corporate 
+governance"
 1325,None
 1326,None
 1327,None
@@ -1401,7 +1401,8 @@ governance"
 1361,None
 1362,None
 1363,None
-1364,None
+1364,"New product introduction/
+service offering"
 1365,None
 1366,None
 1367,None
@@ -1452,7 +1453,7 @@ governance"
 1411,None
 1412,None
 1413,None
-1414,Human resources
+1414,None
 1415,None
 1416,None
 1417,None
@@ -1524,7 +1525,7 @@ governance"
 1480,None
 1481,None
 1482,None
-1483,R&D-related actions
+1483,None
 1484,None
 1485,None
 1486,None
@@ -1602,7 +1603,8 @@ service offering"
 1557,None
 1558,None
 1559,None
-1560,None
+1560,"Product/
+service improvement"
 1561,None
 1562,None
 1563,"Merger & 
@@ -1610,8 +1612,7 @@ acquisitions"
 1564,Human resources
 1565,None
 1566,None
-1567,"Merger & 
-acquisitions"
+1567,None
 1568,"Corporate 
 governance"
 1569,None
@@ -1770,12 +1771,12 @@ acquisitions"
 1715,None
 1716,None
 1717,None
-1718,"Merger & 
-acquisitions"
+1718,"Corporate 
+governance"
 1719,None
 1720,None
 1721,Divestiture
-1722,Human resources
+1722,None
 1723,None
 1724,None
 1725,None
@@ -1821,7 +1822,8 @@ governance"
 1764,None
 1765,None
 1766,None
-1767,None
+1767,"Merger & 
+acquisitions"
 1768,None
 1769,None
 1770,None
@@ -1870,8 +1872,7 @@ governance"
 1812,None
 1813,None
 1814,None
-1815,"Corporate 
-governance"
+1815,None
 1816,None
 1817,None
 1818,None
@@ -1882,10 +1883,9 @@ governance"
 1823,None
 1824,None
 1825,None
-1826,Market entry
+1826,None
 1827,None
-1828,"New product introduction/
-service offering"
+1828,None
 1829,None
 1830,None
 1831,None
@@ -1923,8 +1923,7 @@ service offering"
 1863,"Merger & 
 acquisitions"
 1864,None
-1865,"New product introduction/
-service offering"
+1865,None
 1866,Marketing
 1867,"Corporate 
 governance"
@@ -1940,15 +1939,15 @@ governance"
 1877,None
 1878,None
 1879,None
-1880,None
+1880,Strategic alliance
 1881,None
-1882,None
+1882,Expansion in existing market (product/service/geographical)
 1883,None
 1884,None
 1885,None
 1886,None
 1887,None
-1888,None
+1888,Expansion in existing market (product/service/geographical)
 1889,None
 1890,None
 1891,None
@@ -1980,8 +1979,7 @@ governance"
 1917,None
 1918,None
 1919,None
-1920,"Merger & 
-acquisitions"
+1920,None
 1921,None
 1922,None
 1923,None
@@ -1999,7 +1997,7 @@ acquisitions"
 1935,None
 1936,None
 1937,None
-1938,None
+1938,Financing
 1939,None
 1940,None
 1941,None
@@ -2037,8 +2035,7 @@ acquisitions"
 1973,None
 1974,None
 1975,None
-1976,"Corporate 
-governance"
+1976,None
 1977,None
 1978,None
 1979,None
@@ -2069,28 +2066,27 @@ governance"
 2002,None
 2003,None
 2004,None
-2005,None
+2005,Financing
 2006,None
 2007,None
 2008,None
 2009,None
 2010,None
 2011,None
-2012,Divestiture
+2012,None
 2013,None
 2014,None
 2015,None
 2016,None
 2017,None
-2018,Expansion in existing market (product/service/geographical)
+2018,None
 2019,None
 2020,None
 2021,None
 2022,None
 2023,None
 2024,None
-2025,"Product/
-service improvement"
+2025,None
 2026,None
 2027,None
 2028,None
@@ -2116,7 +2112,7 @@ acquisitions"
 2047,None
 2048,None
 2049,None
-2050,Strategic alliance
+2050,None
 2051,None
 2052,None
 2053,None
@@ -2137,8 +2133,7 @@ acquisitions"
 2068,None
 2069,None
 2070,None
-2071,"New product introduction/
-service offering"
+2071,None
 2072,None
 2073,None
 2074,None
@@ -2245,7 +2240,7 @@ service offering"
 2172,None
 2173,"Corporate 
 governance"
-2174,None
+2174,Financing
 2175,None
 2176,None
 2177,None
@@ -2290,13 +2285,14 @@ governance"
 2216,None
 2217,None
 2218,None
-2219,Expansion in existing market (product/service/geographical)
+2219,None
 2220,None
 2221,None
 2222,None
 2223,None
 2224,None
-2225,None
+2225,"Corporate 
+governance"
 2226,None
 2227,None
 2228,None
@@ -2399,8 +2395,7 @@ governance"
 2325,None
 2326,None
 2327,None
-2328,"Merger & 
-acquisitions"
+2328,None
 2329,None
 2330,None
 2331,None
@@ -2412,12 +2407,10 @@ service offering"
 2335,None
 2336,None
 2337,None
-2338,"New product introduction/
-service offering"
+2338,None
 2339,None
 2340,None
-2341,"Merger & 
-acquisitions"
+2341,None
 2342,None
 2343,None
 2344,None
@@ -2459,7 +2452,7 @@ acquisitions"
 2380,None
 2381,None
 2382,None
-2383,Divestiture
+2383,None
 2384,None
 2385,None
 2386,None
@@ -2483,8 +2476,7 @@ acquisitions"
 2404,None
 2405,None
 2406,None
-2407,"Product/
-service improvement"
+2407,None
 2408,None
 2409,None
 2410,"New product introduction/
@@ -2547,7 +2539,7 @@ acquisitions"
 2465,None
 2466,None
 2467,None
-2468,None
+2468,Production-related actions
 2469,None
 2470,None
 2471,None
@@ -2570,10 +2562,10 @@ service offering"
 2486,None
 2487,None
 2488,None
-2489,None
+2489,Expansion in existing market (product/service/geographical)
 2490,None
 2491,None
-2492,None
+2492,Marketing
 2493,R&D-related actions
 2494,None
 2495,None
@@ -2623,8 +2615,9 @@ service offering"
 2539,None
 2540,None
 2541,None
-2542,None
-2543,None
+2542,"Product/
+service improvement"
+2543,Divestiture
 2544,None
 2545,None
 2546,None
@@ -2698,7 +2691,8 @@ service offering"
 2613,None
 2614,None
 2615,None
-2616,None
+2616,"New product introduction/
+service offering"
 2617,None
 2618,None
 2619,None
@@ -2711,7 +2705,7 @@ service offering"
 2626,None
 2627,None
 2628,None
-2629,None
+2629,Human resources
 2630,None
 2631,None
 2632,None
@@ -2774,7 +2768,7 @@ governance"
 2687,None
 2688,None
 2689,None
-2690,Human resources
+2690,None
 2691,None
 2692,None
 2693,None
@@ -2851,7 +2845,8 @@ governance"
 2762,None
 2763,None
 2764,None
-2765,None
+2765,"Corporate 
+governance"
 2766,None
 2767,None
 2768,None
@@ -2863,7 +2858,7 @@ governance"
 service offering"
 2774,None
 2775,None
-2776,None
+2776,Financing
 2777,None
 2778,None
 2779,None
@@ -2909,7 +2904,7 @@ service offering"
 2818,None
 2819,None
 2820,None
-2821,None
+2821,Production-related actions
 2822,None
 2823,None
 2824,None
@@ -2937,8 +2932,7 @@ service offering"
 2846,None
 2847,None
 2848,None
-2849,"Corporate 
-governance"
+2849,None
 2850,None
 2851,None
 2852,None
@@ -2991,8 +2985,7 @@ governance"
 governance"
 2897,None
 2898,None
-2899,"New product introduction/
-service offering"
+2899,Strategic alliance
 2900,"Merger & 
 acquisitions"
 2901,None
@@ -3039,15 +3032,14 @@ acquisitions"
 2942,None
 2943,None
 2944,None
-2945,R&D-related actions
+2945,None
 2946,None
 2947,None
 2948,None
 2949,None
 2950,None
 2951,None
-2952,"Merger & 
-acquisitions"
+2952,None
 2953,None
 2954,None
 2955,None
@@ -3056,7 +3048,7 @@ acquisitions"
 2958,None
 2959,None
 2960,None
-2961,Strategic alliance
+2961,None
 2962,None
 2963,Expansion in existing market (product/service/geographical)
 2964,None
@@ -3065,10 +3057,10 @@ acquisitions"
 2967,None
 2968,None
 2969,None
-2970,Strategic alliance
+2970,Marketing
 2971,None
 2972,None
-2973,Marketing
+2973,None
 2974,None
 2975,None
 2976,None
@@ -3083,8 +3075,7 @@ acquisitions"
 2985,None
 2986,None
 2987,None
-2988,"New product introduction/
-service offering"
+2988,None
 2989,None
 2990,None
 2991,None
@@ -3098,8 +3089,7 @@ service offering"
 2999,None
 3000,"New product introduction/
 service offering"
-3001,"Merger & 
-acquisitions"
+3001,None
 3002,None
 3003,None
 3004,None
@@ -3134,7 +3124,7 @@ acquisitions"
 3033,None
 3034,None
 3035,None
-3036,None
+3036,Strategic alliance
 3037,None
 3038,None
 3039,None
@@ -3241,7 +3231,7 @@ service offering"
 3136,None
 3137,None
 3138,None
-3139,None
+3139,Strategic alliance
 3140,None
 3141,None
 3142,None
@@ -3290,7 +3280,8 @@ governance"
 3184,None
 3185,None
 3186,None
-3187,None
+3187,"Corporate 
+governance"
 3188,None
 3189,None
 3190,None
@@ -3342,7 +3333,7 @@ governance"
 3234,None
 3235,None
 3236,None
-3237,Expansion in existing market (product/service/geographical)
+3237,None
 3238,None
 3239,None
 3240,Divestiture
@@ -3353,14 +3344,15 @@ governance"
 3245,None
 3246,None
 3247,None
-3248,None
+3248,"Corporate 
+governance"
 3249,None
 3250,None
 3251,None
 3252,None
 3253,None
 3254,None
-3255,Expansion in existing market (product/service/geographical)
+3255,None
 3256,None
 3257,None
 3258,None
@@ -3373,8 +3365,7 @@ governance"
 3265,None
 3266,None
 3267,None
-3268,"Product/
-service improvement"
+3268,None
 3269,None
 3270,None
 3271,None
@@ -3391,8 +3382,8 @@ service improvement"
 3282,None
 3283,None
 3284,None
-3285,"Product/
-service improvement"
+3285,"New product introduction/
+service offering"
 3286,None
 3287,None
 3288,None
@@ -3408,14 +3399,13 @@ acquisitions"
 3297,None
 3298,None
 3299,None
-3300,Expansion in existing market (product/service/geographical)
+3300,Production-related actions
 3301,None
 3302,None
 3303,Marketing
 3304,None
 3305,None
-3306,"Product/
-service improvement"
+3306,None
 3307,None
 3308,None
 3309,None
@@ -3459,8 +3449,7 @@ service offering"
 3346,None
 3347,None
 3348,None
-3349,"Merger & 
-acquisitions"
+3349,None
 3350,None
 3351,None
 3352,None
@@ -3468,7 +3457,7 @@ acquisitions"
 3354,None
 3355,None
 3356,None
-3357,None
+3357,Financing
 3358,None
 3359,None
 3360,None
@@ -3505,8 +3494,7 @@ acquisitions"
 3391,None
 3392,None
 3393,None
-3394,"Product/
-service improvement"
+3394,None
 3395,None
 3396,None
 3397,None
@@ -3571,7 +3559,8 @@ service improvement"
 3456,None
 3457,None
 3458,None
-3459,None
+3459,"Corporate 
+governance"
 3460,None
 3461,None
 3462,None
@@ -3598,7 +3587,8 @@ acquisitions"
 3482,None
 3483,None
 3484,Strategic alliance
-3485,None
+3485,"Corporate 
+governance"
 3486,None
 3487,None
 3488,None
@@ -3623,8 +3613,7 @@ governance"
 3506,"Corporate 
 governance"
 3507,None
-3508,"Merger & 
-acquisitions"
+3508,None
 3509,None
 3510,None
 3511,None
@@ -3648,7 +3637,8 @@ acquisitions"
 3529,None
 3530,None
 3531,None
-3532,None
+3532,"Merger & 
+acquisitions"
 3533,None
 3534,None
 3535,None
@@ -3698,7 +3688,7 @@ governance"
 3578,None
 3579,None
 3580,Strategic alliance
-3581,Financing
+3581,None
 3582,None
 3583,None
 3584,None
@@ -3753,7 +3743,7 @@ governance"
 3631,None
 3632,None
 3633,None
-3634,None
+3634,Divestiture
 3635,None
 3636,None
 3637,None
@@ -3863,7 +3853,8 @@ service offering"
 3736,None
 3737,None
 3738,None
-3739,None
+3739,"Corporate 
+governance"
 3740,None
 3741,None
 3742,None
@@ -3977,7 +3968,7 @@ service offering"
 3846,None
 3847,None
 3848,None
-3849,Divestiture
+3849,None
 3850,None
 3851,None
 3852,None
@@ -4030,7 +4021,7 @@ governance"
 3898,None
 3899,None
 3900,None
-3901,Production-related actions
+3901,Expansion in existing market (product/service/geographical)
 3902,None
 3903,None
 3904,None
@@ -4049,8 +4040,7 @@ acquisitions"
 3916,None
 3917,None
 3918,None
-3919,"New product introduction/
-service offering"
+3919,None
 3920,None
 3921,None
 3922,None
@@ -4082,8 +4072,9 @@ service offering"
 3948,None
 3949,None
 3950,None
-3951,None
-3952,None
+3951,"Corporate 
+governance"
+3952,Venturing
 3953,None
 3954,None
 3955,None
@@ -4128,7 +4119,7 @@ governance"
 3993,None
 3994,None
 3995,None
-3996,Venturing
+3996,None
 3997,None
 3998,None
 3999,None
@@ -4151,7 +4142,7 @@ governance"
 4016,None
 4017,None
 4018,Strategic alliance
-4019,Expansion in existing market (product/service/geographical)
+4019,Production-related actions
 4020,None
 4021,None
 4022,None
@@ -4161,7 +4152,8 @@ governance"
 4026,None
 4027,None
 4028,None
-4029,None
+4029,"New product introduction/
+service offering"
 4030,None
 4031,None
 4032,None
@@ -4172,8 +4164,7 @@ governance"
 4037,None
 4038,None
 4039,None
-4040,"Merger & 
-acquisitions"
+4040,None
 4041,None
 4042,None
 4043,None
@@ -4247,7 +4238,8 @@ governance"
 4108,None
 4109,None
 4110,None
-4111,None
+4111,"Corporate 
+governance"
 4112,None
 4113,"Merger & 
 acquisitions"
@@ -4269,8 +4261,7 @@ acquisitions"
 4129,None
 4130,None
 4131,None
-4132,"Corporate 
-governance"
+4132,None
 4133,None
 4134,None
 4135,None
@@ -4311,7 +4302,8 @@ governance"
 4170,None
 4171,None
 4172,None
-4173,None
+4173,"Merger & 
+acquisitions"
 4174,None
 4175,None
 4176,None
@@ -4350,7 +4342,7 @@ governance"
 4206,None
 4207,None
 4208,None
-4209,Strategic alliance
+4209,None
 4210,None
 4211,None
 4212,None
@@ -4367,8 +4359,7 @@ acquisitions"
 4222,None
 4223,None
 4224,None
-4225,"New product introduction/
-service offering"
+4225,None
 4226,None
 4227,None
 4228,None
@@ -4390,7 +4381,8 @@ service offering"
 4244,None
 4245,None
 4246,None
-4247,None
+4247,"Merger & 
+acquisitions"
 4248,None
 4249,None
 4250,None
@@ -4401,8 +4393,7 @@ service offering"
 4255,None
 4256,None
 4257,None
-4258,"Product/
-service improvement"
+4258,None
 4259,None
 4260,"Corporate 
 governance"
@@ -4453,7 +4444,7 @@ governance"
 4305,None
 4306,None
 4307,None
-4308,Financing
+4308,None
 4309,None
 4310,None
 4311,None
@@ -4466,7 +4457,7 @@ governance"
 4318,None
 4319,None
 4320,None
-4321,None
+4321,Venturing
 4322,None
 4323,None
 4324,None
@@ -4480,7 +4471,8 @@ governance"
 4332,None
 4333,None
 4334,None
-4335,None
+4335,"New product introduction/
+service offering"
 4336,None
 4337,None
 4338,None
@@ -4657,15 +4649,14 @@ service offering"
 4503,"Corporate 
 governance"
 4504,None
-4505,"Corporate 
-governance"
+4505,None
 4506,None
 4507,None
 4508,None
 4509,None
 4510,None
 4511,None
-4512,Venturing
+4512,None
 4513,None
 4514,None
 4515,None
@@ -4702,9 +4693,10 @@ governance"
 4546,None
 4547,None
 4548,None
-4549,None
+4549,"Corporate 
+governance"
 4550,None
-4551,None
+4551,Marketing
 4552,None
 4553,None
 4554,None
@@ -4745,8 +4737,7 @@ governance"
 4589,None
 4590,None
 4591,None
-4592,"Merger & 
-acquisitions"
+4592,Divestiture
 4593,None
 4594,None
 4595,None
@@ -4832,7 +4823,7 @@ governance"
 4674,None
 4675,None
 4676,None
-4677,Venturing
+4677,None
 4678,None
 4679,None
 4680,None
@@ -4872,8 +4863,7 @@ service offering"
 4713,None
 4714,None
 4715,None
-4716,"Product/
-service improvement"
+4716,None
 4717,None
 4718,None
 4719,None
@@ -4899,9 +4889,10 @@ service improvement"
 4739,None
 4740,None
 4741,None
-4742,None
+4742,"Corporate 
+governance"
 4743,None
-4744,Strategic alliance
+4744,None
 4745,None
 4746,None
 4747,None
@@ -4937,7 +4928,7 @@ service improvement"
 4777,None
 4778,None
 4779,None
-4780,None
+4780,Expansion in existing market (product/service/geographical)
 4781,None
 4782,Financing
 4783,None
@@ -4946,7 +4937,7 @@ service improvement"
 4786,None
 4787,Divestiture
 4788,None
-4789,None
+4789,Strategic alliance
 4790,None
 4791,None
 4792,None
@@ -5007,7 +4998,7 @@ acquisitions"
 4846,None
 4847,None
 4848,None
-4849,None
+4849,Strategic alliance
 4850,None
 4851,None
 4852,None
@@ -5044,7 +5035,7 @@ acquisitions"
 4883,None
 4884,None
 4885,None
-4886,Financing
+4886,None
 4887,None
 4888,None
 4889,None
@@ -5054,8 +5045,7 @@ acquisitions"
 4893,None
 4894,None
 4895,None
-4896,"Product/
-service improvement"
+4896,None
 4897,None
 4898,None
 4899,None
@@ -5085,10 +5075,10 @@ governance"
 4922,None
 4923,None
 4924,None
-4925,None
+4925,Strategic alliance
 4926,None
 4927,None
-4928,Strategic alliance
+4928,None
 4929,None
 4930,None
 4931,None
@@ -5118,10 +5108,11 @@ acquisitions"
 4954,Human resources
 4955,None
 4956,None
-4957,Strategic alliance
+4957,None
 4958,None
 4959,None
-4960,None
+4960,"New product introduction/
+service offering"
 4961,None
 4962,None
 4963,None
@@ -5138,7 +5129,7 @@ acquisitions"
 4974,None
 4975,None
 4976,None
-4977,None
+4977,Divestiture
 4978,None
 4979,Marketing
 4980,None
@@ -5221,7 +5212,7 @@ acquisitions"
 5053,None
 5054,None
 5055,None
-5056,Venturing
+5056,None
 5057,None
 5058,None
 5059,None
@@ -5301,7 +5292,8 @@ acquisitions"
 5132,None
 5133,None
 5134,None
-5135,None
+5135,"Product/
+service improvement"
 5136,None
 5137,None
 5138,None
@@ -5315,7 +5307,8 @@ acquisitions"
 5146,None
 5147,None
 5148,None
-5149,None
+5149,"Merger & 
+acquisitions"
 5150,None
 5151,None
 5152,None
@@ -5413,7 +5406,8 @@ service improvement"
 5241,None
 5242,None
 5243,None
-5244,None
+5244,"New product introduction/
+service offering"
 5245,None
 5246,None
 5247,None
@@ -5433,8 +5427,9 @@ acquisitions"
 5260,None
 5261,None
 5262,None
-5263,None
-5264,None
+5263,Strategic alliance
+5264,"New product introduction/
+service offering"
 5265,None
 5266,None
 5267,None
@@ -5458,7 +5453,7 @@ acquisitions"
 5285,Production-related actions
 5286,None
 5287,None
-5288,Strategic alliance
+5288,None
 5289,None
 5290,None
 5291,None
@@ -5513,7 +5508,8 @@ governance"
 5338,None
 5339,None
 5340,None
-5341,Expansion in existing market (product/service/geographical)
+5341,"Product/
+service improvement"
 5342,None
 5343,None
 5344,None
@@ -5523,7 +5519,8 @@ governance"
 5348,None
 5349,None
 5350,None
-5351,None
+5351,"Corporate 
+governance"
 5352,None
 5353,None
 5354,None
@@ -5588,7 +5585,7 @@ acquisitions"
 5412,None
 5413,None
 5414,None
-5415,None
+5415,Marketing
 5416,None
 5417,None
 5418,None
@@ -5696,7 +5693,7 @@ acquisitions"
 5518,None
 5519,None
 5520,None
-5521,None
+5521,Production-related actions
 5522,None
 5523,None
 5524,None
@@ -5719,7 +5716,7 @@ governance"
 5540,None
 5541,None
 5542,None
-5543,Marketing
+5543,None
 5544,None
 5545,None
 5546,None
@@ -5747,7 +5744,7 @@ governance"
 5568,None
 5569,None
 5570,None
-5571,Strategic alliance
+5571,None
 5572,None
 5573,None
 5574,None
@@ -5929,7 +5926,7 @@ governance"
 5744,None
 5745,None
 5746,None
-5747,None
+5747,Financing
 5748,"Corporate 
 governance"
 5749,None
@@ -5987,12 +5984,13 @@ governance"
 5798,None
 5799,None
 5800,None
-5801,None
+5801,Expansion in existing market (product/service/geographical)
 5802,None
 5803,None
 5804,None
 5805,None
-5806,None
+5806,"Merger & 
+acquisitions"
 5807,None
 5808,None
 5809,None
@@ -6011,8 +6009,7 @@ governance"
 5822,None
 5823,None
 5824,None
-5825,"Corporate 
-governance"
+5825,None
 5826,None
 5827,None
 5828,None
@@ -6039,11 +6036,11 @@ governance"
 5849,None
 5850,None
 5851,None
-5852,None
+5852,Venturing
 5853,None
 5854,None
 5855,None
-5856,Marketing
+5856,None
 5857,None
 5858,None
 5859,None
@@ -6135,8 +6132,7 @@ governance"
 5945,None
 5946,None
 5947,None
-5948,"Merger & 
-acquisitions"
+5948,None
 5949,"New product introduction/
 service offering"
 5950,None
@@ -6148,7 +6144,7 @@ service offering"
 5956,None
 5957,None
 5958,None
-5959,None
+5959,Expansion in existing market (product/service/geographical)
 5960,None
 5961,None
 5962,None
@@ -6160,8 +6156,7 @@ service offering"
 5968,None
 5969,None
 5970,None
-5971,"Corporate 
-governance"
+5971,None
 5972,None
 5973,None
 5974,None
@@ -6249,7 +6244,7 @@ service improvement"
 6053,None
 6054,None
 6055,None
-6056,None
+6056,Divestiture
 6057,None
 6058,None
 6059,None
@@ -6290,7 +6285,7 @@ service improvement"
 6094,None
 6095,None
 6096,None
-6097,Human resources
+6097,Marketing
 6098,None
 6099,None
 6100,None
@@ -6351,7 +6346,7 @@ acquisitions"
 6154,None
 6155,None
 6156,None
-6157,Expansion in existing market (product/service/geographical)
+6157,None
 6158,None
 6159,None
 6160,None
@@ -6389,7 +6384,7 @@ governance"
 6191,None
 6192,None
 6193,None
-6194,None
+6194,Human resources
 6195,None
 6196,None
 6197,None
@@ -6400,7 +6395,7 @@ governance"
 6202,None
 6203,None
 6204,None
-6205,None
+6205,Divestiture
 6206,None
 6207,None
 6208,None
@@ -6415,7 +6410,7 @@ governance"
 6217,None
 6218,None
 6219,None
-6220,None
+6220,R&D-related actions
 6221,None
 6222,None
 6223,None
@@ -6504,7 +6499,7 @@ governance"
 6304,None
 6305,None
 6306,None
-6307,Strategic alliance
+6307,None
 6308,None
 6309,None
 6310,None
@@ -6515,7 +6510,8 @@ governance"
 6315,None
 6316,None
 6317,None
-6318,None
+6318,"New product introduction/
+service offering"
 6319,None
 6320,None
 6321,None
@@ -6529,7 +6525,7 @@ governance"
 6329,None
 6330,None
 6331,None
-6332,Strategic alliance
+6332,R&D-related actions
 6333,None
 6334,None
 6335,None
@@ -6566,8 +6562,7 @@ service offering"
 6364,None
 6365,None
 6366,None
-6367,"Merger & 
-acquisitions"
+6367,None
 6368,Financing
 6369,None
 6370,None
@@ -6653,7 +6648,7 @@ service offering"
 6447,None
 6448,None
 6449,None
-6450,None
+6450,Divestiture
 6451,None
 6452,"New product introduction/
 service offering"
@@ -6828,7 +6823,7 @@ service offering"
 6616,None
 6617,None
 6618,None
-6619,None
+6619,Financing
 6620,None
 6621,None
 6622,None
@@ -6864,8 +6859,7 @@ service offering"
 6652,None
 6653,None
 6654,None
-6655,"New product introduction/
-service offering"
+6655,None
 6656,None
 6657,None
 6658,None
@@ -6888,7 +6882,7 @@ service offering"
 6675,None
 6676,None
 6677,None
-6678,Strategic alliance
+6678,None
 6679,None
 6680,None
 6681,None
@@ -6940,8 +6934,7 @@ acquisitions"
 6725,None
 6726,None
 6727,None
-6728,"Merger & 
-acquisitions"
+6728,None
 6729,None
 6730,None
 6731,None
@@ -6969,7 +6962,7 @@ acquisitions"
 6753,None
 6754,None
 6755,None
-6756,None
+6756,Financing
 6757,None
 6758,None
 6759,None
@@ -7051,8 +7044,7 @@ service offering"
 6834,None
 6835,None
 6836,None
-6837,"Merger & 
-acquisitions"
+6837,None
 6838,None
 6839,None
 6840,None
@@ -7099,10 +7091,12 @@ governance"
 governance"
 6880,None
 6881,None
-6882,Venturing
+6882,"New product introduction/
+service offering"
 6883,None
 6884,None
-6885,Expansion in existing market (product/service/geographical)
+6885,"Product/
+service improvement"
 6886,None
 6887,None
 6888,"New product introduction/
@@ -7127,7 +7121,8 @@ service offering"
 6906,None
 6907,None
 6908,None
-6909,None
+6909,"Merger & 
+acquisitions"
 6910,None
 6911,"Corporate 
 governance"
@@ -7172,9 +7167,9 @@ acquisitions"
 6948,None
 6949,Strategic alliance
 6950,None
-6951,Strategic alliance
-6952,None
-6953,None
+6951,None
+6952,Strategic alliance
+6953,Divestiture
 6954,None
 6955,None
 6956,None
@@ -7222,7 +7217,7 @@ service offering"
 6996,None
 6997,"New product introduction/
 service offering"
-6998,Expansion in existing market (product/service/geographical)
+6998,Strategic alliance
 6999,None
 7000,None
 7001,None
@@ -7258,7 +7253,7 @@ governance"
 7029,None
 7030,None
 7031,None
-7032,Divestiture
+7032,None
 7033,None
 7034,None
 7035,None
@@ -7276,15 +7271,15 @@ acquisitions"
 7046,None
 7047,None
 7048,None
-7049,None
+7049,"New product introduction/
+service offering"
 7050,None
 7051,None
 7052,None
 7053,None
 7054,None
 7055,None
-7056,"Corporate 
-governance"
+7056,None
 7057,None
 7058,None
 7059,None
@@ -7316,7 +7311,7 @@ governance"
 7085,None
 7086,None
 7087,None
-7088,Strategic alliance
+7088,None
 7089,None
 7090,None
 7091,None
@@ -7351,7 +7346,7 @@ governance"
 7119,None
 7120,None
 7121,None
-7122,None
+7122,Expansion in existing market (product/service/geographical)
 7123,None
 7124,None
 7125,None
@@ -7386,7 +7381,7 @@ governance"
 7154,None
 7155,None
 7156,None
-7157,Strategic alliance
+7157,None
 7158,None
 7159,None
 7160,None
@@ -7408,7 +7403,7 @@ governance"
 7176,None
 7177,None
 7178,None
-7179,None
+7179,Venturing
 7180,None
 7181,None
 7182,None
@@ -7425,8 +7420,7 @@ governance"
 7193,"Corporate 
 governance"
 7194,None
-7195,"Merger & 
-acquisitions"
+7195,None
 7196,None
 7197,"Corporate 
 governance"
@@ -7593,7 +7587,7 @@ governance"
 7352,None
 7353,None
 7354,Financing
-7355,None
+7355,Strategic alliance
 7356,None
 7357,None
 7358,None
@@ -7625,7 +7619,7 @@ service offering"
 7383,None
 7384,None
 7385,None
-7386,None
+7386,Strategic alliance
 7387,None
 7388,None
 7389,None
@@ -7642,7 +7636,7 @@ service offering"
 7400,None
 7401,None
 7402,Divestiture
-7403,None
+7403,Strategic alliance
 7404,None
 7405,None
 7406,None
@@ -7701,10 +7695,11 @@ acquisitions"
 7458,None
 7459,Human resources
 7460,None
-7461,None
+7461,"New product introduction/
+service offering"
 7462,None
 7463,None
-7464,Financing
+7464,None
 7465,None
 7466,None
 7467,None
@@ -7803,7 +7798,8 @@ governance"
 7557,None
 7558,None
 7559,None
-7560,None
+7560,"Corporate 
+governance"
 7561,None
 7562,None
 7563,None
@@ -7846,7 +7842,7 @@ governance"
 7599,Human resources
 7600,None
 7601,None
-7602,Marketing
+7602,None
 7603,None
 7604,None
 7605,None
@@ -7924,7 +7920,7 @@ governance"
 7677,None
 7678,None
 7679,None
-7680,None
+7680,Production-related actions
 7681,Production-related actions
 7682,None
 7683,None
@@ -8004,7 +8000,7 @@ governance"
 7754,None
 7755,None
 7756,None
-7757,None
+7757,Venturing
 7758,None
 7759,None
 7760,None
@@ -8014,15 +8010,14 @@ governance"
 acquisitions"
 7764,None
 7765,None
-7766,None
+7766,Divestiture
 7767,None
 7768,None
 7769,None
 7770,None
 7771,None
 7772,None
-7773,"Corporate 
-governance"
+7773,None
 7774,"New product introduction/
 service offering"
 7775,None
@@ -8132,16 +8127,16 @@ acquisitions"
 7878,None
 7879,None
 7880,None
-7881,Strategic alliance
+7881,None
 7882,None
 7883,None
 7884,None
 7885,None
 7886,None
 7887,None
-7888,None
+7888,Production-related actions
 7889,None
-7890,None
+7890,Marketing
 7891,None
 7892,None
 7893,None
@@ -8166,7 +8161,7 @@ acquisitions"
 7912,None
 7913,None
 7914,None
-7915,None
+7915,Strategic alliance
 7916,None
 7917,None
 7918,None
@@ -8284,7 +8279,8 @@ acquisitions"
 8030,None
 8031,None
 8032,None
-8033,Market entry
+8033,"New product introduction/
+service offering"
 8034,None
 8035,None
 8036,None
@@ -8365,9 +8361,8 @@ governance"
 8108,None
 8109,None
 8110,None
-8111,Strategic alliance
-8112,"Merger & 
-acquisitions"
+8111,None
+8112,None
 8113,None
 8114,"Merger & 
 acquisitions"
@@ -8387,8 +8382,7 @@ acquisitions"
 8128,None
 8129,None
 8130,None
-8131,"New product introduction/
-service offering"
+8131,None
 8132,None
 8133,None
 8134,None
@@ -8402,7 +8396,7 @@ service offering"
 8142,None
 8143,None
 8144,None
-8145,Divestiture
+8145,None
 8146,Strategic alliance
 8147,None
 8148,None
@@ -8515,8 +8509,7 @@ service offering"
 8251,None
 8252,None
 8253,None
-8254,"Merger & 
-acquisitions"
+8254,None
 8255,None
 8256,None
 8257,"Merger & 
@@ -8526,7 +8519,7 @@ acquisitions"
 8260,None
 8261,None
 8262,None
-8263,None
+8263,Divestiture
 8264,None
 8265,None
 8266,None
@@ -8538,7 +8531,7 @@ acquisitions"
 8272,None
 8273,None
 8274,None
-8275,Human resources
+8275,Financing
 8276,None
 8277,None
 8278,None
@@ -8561,10 +8554,10 @@ acquisitions"
 8295,None
 8296,None
 8297,None
-8298,Strategic alliance
+8298,None
 8299,None
 8300,None
-8301,Financing
+8301,None
 8302,None
 8303,None
 8304,None
@@ -8587,7 +8580,8 @@ acquisitions"
 8319,None
 8320,None
 8321,None
-8322,None
+8322,"Merger & 
+acquisitions"
 8323,None
 8324,None
 8325,None
@@ -8612,7 +8606,7 @@ service offering"
 8343,None
 8344,None
 8345,None
-8346,None
+8346,R&D-related actions
 8347,None
 8348,None
 8349,None
@@ -8639,7 +8633,7 @@ governance"
 8369,None
 8370,"Corporate 
 governance"
-8371,None
+8371,Divestiture
 8372,None
 8373,None
 8374,None
@@ -8687,7 +8681,8 @@ governance"
 8416,None
 8417,Production-related actions
 8418,None
-8419,None
+8419,"New product introduction/
+service offering"
 8420,None
 8421,None
 8422,None
@@ -8787,13 +8782,13 @@ governance"
 8509,None
 8510,None
 8511,None
-8512,Expansion in existing market (product/service/geographical)
+8512,None
 8513,None
 8514,None
 8515,None
 8516,None
 8517,None
-8518,None
+8518,Expansion in existing market (product/service/geographical)
 8519,None
 8520,None
 8521,None
@@ -8835,13 +8830,13 @@ governance"
 8554,None
 8555,None
 8556,None
-8557,Marketing
+8557,None
 8558,None
 8559,None
 8560,None
 8561,None
 8562,None
-8563,R&D-related actions
+8563,Strategic alliance
 8564,None
 8565,None
 8566,None
@@ -8884,7 +8879,7 @@ governance"
 8603,None
 8604,Financing
 8605,None
-8606,None
+8606,Strategic alliance
 8607,None
 8608,None
 8609,None
@@ -8903,7 +8898,7 @@ governance"
 8622,None
 8623,None
 8624,None
-8625,None
+8625,Human resources
 8626,None
 8627,None
 8628,None
@@ -8913,8 +8908,7 @@ governance"
 8632,None
 8633,"New product introduction/
 service offering"
-8634,"Merger & 
-acquisitions"
+8634,None
 8635,None
 8636,None
 8637,None
@@ -8953,7 +8947,7 @@ acquisitions"
 8670,None
 8671,None
 8672,Expansion in existing market (product/service/geographical)
-8673,None
+8673,Production-related actions
 8674,None
 8675,None
 8676,None
@@ -8978,7 +8972,8 @@ acquisitions"
 8695,None
 8696,None
 8697,None
-8698,None
+8698,"Merger & 
+acquisitions"
 8699,None
 8700,None
 8701,None
@@ -9012,7 +9007,7 @@ governance"
 8726,None
 8727,None
 8728,None
-8729,Strategic alliance
+8729,None
 8730,None
 8731,None
 8732,None
@@ -9072,7 +9067,7 @@ service offering"
 8785,None
 8786,None
 8787,None
-8788,None
+8788,Strategic alliance
 8789,None
 8790,None
 8791,None
@@ -9093,8 +9088,7 @@ governance"
 8805,None
 8806,None
 8807,None
-8808,"Merger & 
-acquisitions"
+8808,None
 8809,None
 8810,None
 8811,None
@@ -9139,7 +9133,8 @@ governance"
 8849,None
 8850,None
 8851,None
-8852,None
+8852,"Corporate 
+governance"
 8853,None
 8854,None
 8855,None
@@ -9190,7 +9185,7 @@ governance"
 8900,None
 8901,Financing
 8902,None
-8903,None
+8903,Financing
 8904,None
 8905,None
 8906,None
@@ -9205,8 +9200,7 @@ governance"
 8915,None
 8916,None
 8917,None
-8918,"Product/
-service improvement"
+8918,None
 8919,Strategic alliance
 8920,None
 8921,None
@@ -9295,7 +9289,8 @@ governance"
 9001,None
 9002,None
 9003,None
-9004,None
+9004,"New product introduction/
+service offering"
 9005,None
 9006,None
 9007,None
@@ -9388,7 +9383,7 @@ acquisitions"
 9092,None
 9093,None
 9094,None
-9095,None
+9095,Venturing
 9096,None
 9097,None
 9098,None
@@ -9444,11 +9439,11 @@ acquisitions"
 9148,None
 9149,None
 9150,None
-9151,None
+9151,Strategic alliance
 9152,None
 9153,None
 9154,None
-9155,None
+9155,Strategic alliance
 9156,None
 9157,None
 9158,None
@@ -9463,8 +9458,7 @@ service offering"
 9166,None
 9167,None
 9168,None
-9169,"Merger & 
-acquisitions"
+9169,None
 9170,None
 9171,None
 9172,None
@@ -9524,8 +9518,7 @@ acquisitions"
 9226,None
 9227,None
 9228,None
-9229,"Merger & 
-acquisitions"
+9229,None
 9230,None
 9231,None
 9232,None
@@ -9593,8 +9586,7 @@ governance"
 9293,None
 9294,"Corporate 
 governance"
-9295,"Merger & 
-acquisitions"
+9295,Venturing
 9296,None
 9297,None
 9298,None
@@ -9627,7 +9619,7 @@ acquisitions"
 9325,None
 9326,None
 9327,None
-9328,Divestiture
+9328,None
 9329,None
 9330,None
 9331,None
@@ -9646,11 +9638,11 @@ acquisitions"
 9344,None
 9345,None
 9346,None
-9347,None
+9347,"New product introduction/
+service offering"
 9348,None
 9349,None
-9350,"Corporate 
-governance"
+9350,None
 9351,None
 9352,None
 9353,None
@@ -9684,11 +9676,10 @@ governance"
 9380,None
 9381,None
 9382,None
-9383,None
+9383,Strategic alliance
 9384,None
 9385,None
-9386,"Merger & 
-acquisitions"
+9386,Venturing
 9387,None
 9388,None
 9389,None
@@ -9696,14 +9687,14 @@ acquisitions"
 9391,None
 9392,None
 9393,None
-9394,Expansion in existing market (product/service/geographical)
+9394,None
 9395,None
 9396,None
 9397,None
 9398,None
 9399,Expansion in existing market (product/service/geographical)
 9400,None
-9401,Production-related actions
+9401,None
 9402,None
 9403,None
 9404,None
@@ -9719,11 +9710,11 @@ service offering"
 9413,None
 9414,None
 9415,None
-9416,None
+9416,"Corporate 
+governance"
 9417,None
 9418,None
-9419,"New product introduction/
-service offering"
+9419,None
 9420,None
 9421,None
 9422,None
@@ -9735,8 +9726,7 @@ service offering"
 9428,None
 9429,None
 9430,None
-9431,"Corporate 
-governance"
+9431,None
 9432,None
 9433,None
 9434,None
@@ -9761,7 +9751,7 @@ governance"
 9451,None
 9452,None
 9453,None
-9454,Financing
+9454,None
 9455,None
 9456,None
 9457,None
@@ -9783,7 +9773,8 @@ governance"
 9473,None
 9474,None
 9475,Strategic alliance
-9476,None
+9476,"Product/
+service improvement"
 9477,None
 9478,None
 9479,None
@@ -9821,7 +9812,8 @@ governance"
 9511,None
 9512,None
 9513,None
-9514,None
+9514,"Corporate 
+governance"
 9515,None
 9516,None
 9517,None
@@ -9853,13 +9845,12 @@ governance"
 9543,None
 9544,None
 9545,None
-9546,Production-related actions
+9546,None
 9547,None
 9548,None
 9549,"New product introduction/
 service offering"
-9550,"Merger & 
-acquisitions"
+9550,None
 9551,None
 9552,None
 9553,None
@@ -9892,7 +9883,7 @@ governance"
 9578,None
 9579,None
 9580,None
-9581,Production-related actions
+9581,Expansion in existing market (product/service/geographical)
 9582,None
 9583,None
 9584,None
@@ -9940,7 +9931,7 @@ governance"
 9626,None
 9627,None
 9628,None
-9629,Marketing
+9629,None
 9630,None
 9631,None
 9632,None
@@ -9976,7 +9967,8 @@ governance"
 9662,None
 9663,None
 9664,None
-9665,None
+9665,"Corporate 
+governance"
 9666,None
 9667,None
 9668,None
@@ -9984,8 +9976,7 @@ governance"
 9670,"Product/
 service improvement"
 9671,None
-9672,"New product introduction/
-service offering"
+9672,None
 9673,None
 9674,None
 9675,None
@@ -10108,7 +10099,7 @@ acquisitions"
 9791,None
 9792,None
 9793,None
-9794,None
+9794,Strategic alliance
 9795,None
 9796,None
 9797,None
@@ -10153,7 +10144,7 @@ acquisitions"
 9835,None
 9836,None
 9837,None
-9838,Marketing
+9838,None
 9839,None
 9840,None
 9841,None
@@ -10188,9 +10179,10 @@ acquisitions"
 9870,None
 9871,None
 9872,None
-9873,Venturing
+9873,None
 9874,None
-9875,Marketing
+9875,"New product introduction/
+service offering"
 9876,None
 9877,None
 9878,None
@@ -10215,8 +10207,7 @@ governance"
 9895,None
 9896,None
 9897,None
-9898,"New product introduction/
-service offering"
+9898,None
 9899,None
 9900,None
 9901,None
@@ -10339,8 +10330,7 @@ governance"
 10013,None
 10014,None
 10015,None
-10016,"Merger & 
-acquisitions"
+10016,Divestiture
 10017,None
 10018,None
 10019,None
@@ -10377,8 +10367,8 @@ acquisitions"
 10050,None
 10051,None
 10052,None
-10053,None
-10054,R&D-related actions
+10053,Marketing
+10054,None
 10055,None
 10056,None
 10057,None
@@ -10575,14 +10565,15 @@ acquisitions"
 10245,None
 10246,None
 10247,None
-10248,Strategic alliance
+10248,None
 10249,None
 10250,None
 10251,None
 10252,None
 10253,None
 10254,None
-10255,None
+10255,"Corporate 
+governance"
 10256,None
 10257,None
 10258,None
@@ -10597,7 +10588,7 @@ acquisitions"
 10267,None
 10268,None
 10269,None
-10270,Expansion in existing market (product/service/geographical)
+10270,None
 10271,None
 10272,None
 10273,None
@@ -10708,8 +10699,7 @@ governance"
 10376,None
 10377,None
 10378,None
-10379,"Corporate 
-governance"
+10379,None
 10380,None
 10381,None
 10382,None
@@ -10750,10 +10740,9 @@ governance"
 10417,None
 10418,None
 10419,None
-10420,"Product/
-service improvement"
+10420,None
 10421,None
-10422,Strategic alliance
+10422,None
 10423,None
 10424,None
 10425,None
@@ -10803,7 +10792,8 @@ service offering"
 10468,None
 10469,None
 10470,None
-10471,None
+10471,"Product/
+service improvement"
 10472,None
 10473,None
 10474,None
@@ -10856,8 +10846,7 @@ service offering"
 10521,None
 10522,None
 10523,None
-10524,"Corporate 
-governance"
+10524,None
 10525,None
 10526,None
 10527,None
@@ -10882,7 +10871,7 @@ governance"
 10546,None
 10547,None
 10548,None
-10549,Strategic alliance
+10549,None
 10550,None
 10551,None
 10552,None
@@ -10910,7 +10899,7 @@ governance"
 10574,None
 10575,None
 10576,None
-10577,Strategic alliance
+10577,None
 10578,None
 10579,None
 10580,None
@@ -10982,7 +10971,8 @@ governance"
 10642,None
 10643,None
 10644,None
-10645,None
+10645,"Corporate 
+governance"
 10646,None
 10647,None
 10648,None
@@ -10995,7 +10985,7 @@ governance"
 10654,None
 10655,None
 10656,None
-10657,None
+10657,Financing
 10658,None
 10659,None
 10660,None
@@ -11003,8 +10993,7 @@ governance"
 10662,None
 10663,None
 10664,None
-10665,"Corporate 
-governance"
+10665,None
 10666,None
 10667,None
 10668,None
@@ -11040,12 +11029,11 @@ governance"
 10697,None
 10698,None
 10699,None
-10700,"New product introduction/
-service offering"
+10700,None
 10701,None
 10702,None
 10703,None
-10704,None
+10704,Strategic alliance
 10705,None
 10706,None
 10707,None
@@ -11078,7 +11066,7 @@ service offering"
 10734,None
 10735,None
 10736,None
-10737,Expansion in existing market (product/service/geographical)
+10737,None
 10738,None
 10739,None
 10740,None
@@ -11140,7 +11128,8 @@ governance"
 10794,None
 10795,None
 10796,None
-10797,None
+10797,"Product/
+service improvement"
 10798,None
 10799,None
 10800,None
