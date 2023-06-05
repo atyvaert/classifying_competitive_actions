@@ -12,6 +12,8 @@ Notebook 'D. Transformers' gives more information about the implementation of th
 
 Finally, I retrained a random forest classifier with TF-IDF text representations as input data and SMOTE resampling to gain insights into the importance of the different words when classifying competitive actions. The different steps of this procedure are described in the notebook 'E. Keywords'.
 
+# Folders
+In this repository, there are 3 main folders. The folder 'src' contains the notebooks that I just described. Second, the folder 'data' contains all the data that has been used in this research. This also contains the 'silver_data' and gold_data' previously discussed. Finally, the folder 'Output' contains the different outputs from all notebooks. First, it contains the class imbalance of the original and recategorized dataset. Next, it contains the predictions on the test set of all the trained models. Moreover, it also contains the results and the optimal parameters for each evaluated model.
 
 # conclusions
 
