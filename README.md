@@ -1,6 +1,6 @@
 # coding
 In this GitHub repository, you will find the code accompanying the extensive experimental analysis performed in the master dissertation of Artur Tyvaert.
-It is important to first read this notebook to gain more understanding about the structure of these notebooks.
+It is important to first read this notebook to gain more understanding about the structure of these notebooks. To find the best-performing approach in this classification setting with respect to the macro-average F1 metric, I conducted an extensive experimental analysis using various text representation methods, resampling techniques, and base classifiers to evaluate the performance of a wide range of different models. Next, I also evaluated the results of two transformer models, which have proven to achieve state-of-the-art performance for various natural language processing tasks
 
 First, I explored the data in the notebook '0. Data exploration and data splitting.'. In this notebook, I load in the original data and explore the raw data. In this notebook, I give more explanation about the class imbalance issues, the data splitting, and the recategorization of the categories. The recategorized data is stored in 'silver_data'.
 
@@ -13,8 +13,6 @@ Notebook 'D. Transformers' gives more information about the implementation of th
 Finally, I retrained a random forest classifier with TF-IDF text representations as input data and SMOTE resampling to gain insights into the importance of the different words when classifying competitive actions. The different steps of this procedure are described in the notebook 'E. Keywords'.
 
 
-##########################
 # conclusions
-##########################
 
 The results of my analysis regarding the performance of the different classifiers reveal three main conclusions. First, my findings show that the state-of-the-art transformer models BERT and RoBERTa achieve significantly better performance than the traditional methods. Second, the count-based text transformation methods achieve better performance in general compared to the embedding methods, although the best-performing models have similar results. Third, when inspecting the results of the proposed resampling techniques to deal with the class imbalance issues, random under-sampling decreases the performance of the classifiers, while SMOTE does not improve the results, except with tree-based classification methods.
