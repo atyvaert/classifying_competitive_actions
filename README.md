@@ -1,4 +1,6 @@
 # coding
+Github repository: https://github.ugent.be/atyvaert/coding.git
+
 In this GitHub repository, you will find the code accompanying the master dissertation of Artur Tyvaert.
 It is important to first read this notebook to gain more understanding about the structure of these notebooks. To find the best-performing approach in this classification setting with respect to the macro-average F1 metric, I conducted an extensive experimental analysis using various text representation methods, resampling techniques, and base classifiers to evaluate the performance of a wide range of different models. Next, I also evaluated the results of two transformer models, which have proven to achieve state-of-the-art performance for various natural language processing tasks.
 
